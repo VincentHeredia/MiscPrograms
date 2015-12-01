@@ -1,0 +1,4365 @@
+Script started on Mon 23 Mar 2015 10:48:22 PM PDT
+]0;hered013@cs433:~/assignment3[hered013@cs433 assignment3]$ ./a[KAssignment3Execute
+Scheduling Algorithms Simulation, by Vincent Heredia
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 1
+
+Input amount of processes
+Enter: 10
+
+Starting FCFS Simulation...
+
+Process: 0
+Arrival Time: 29.821s
+Finish Time: 33.527s
+Service Time: 0.750s
+I/O Time: 2.946
+Turnaround time: 3.706s
+Waiting time: 0.000s
+
+Process: 3
+Arrival Time: 90.402s
+Finish Time: 129.863s
+Service Time: 5.735s
+I/O Time: 28.165
+Turnaround time: 39.461s
+Waiting time: 9.270s
+
+Process: 1
+Arrival Time: 44.767s
+Finish Time: 133.372s
+Service Time: 15.856s
+I/O Time: 64.979
+Turnaround time: 88.606s
+Waiting time: 11.406s
+
+Process: 2
+Arrival Time: 79.342s
+Finish Time: 139.783s
+Service Time: 28.690s
+I/O Time: 22.868
+Turnaround time: 60.441s
+Waiting time: 80.835s
+
+Process: 7
+Arrival Time: 232.861s
+Finish Time: 302.798s
+Service Time: 18.658s
+I/O Time: 40.270
+Turnaround time: 69.938s
+Waiting time: 247.824s
+
+Process: 5
+Arrival Time: 217.662s
+Finish Time: 304.608s
+Service Time: 12.831s
+I/O Time: 64.049
+Turnaround time: 86.946s
+Waiting time: 237.905s
+
+Process: 9
+Arrival Time: 259.069s
+Finish Time: 355.721s
+Service Time: 17.936s
+I/O Time: 66.000
+Turnaround time: 96.652s
+Waiting time: 273.262s
+
+Process: 6
+Arrival Time: 220.308s
+Finish Time: 418.019s
+Service Time: 28.459s
+I/O Time: 135.738
+Turnaround time: 197.712s
+Waiting time: 20.442s
+
+Process: 8
+Arrival Time: 239.513s
+Finish Time: 445.288s
+Service Time: 28.804s
+I/O Time: 140.118
+Turnaround time: 205.776s
+Waiting time: 260.254s
+
+Process: 4
+Arrival Time: 193.059s
+Finish Time: 452.765s
+Service Time: 53.395s
+I/O Time: 195.623
+Turnaround time: 259.706s
+Waiting time: 24.229s
+
+All processes finished...
+CPU Utilization: 46.648%
+Throughput: 0.022 jobs / s
+Average turnaround: 110.894
+Average Waiting Time: 116.543
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 1
+
+Input amount of processes
+Enter: 10
+
+Starting FCFS Simulation...
+
+Process: 1
+Arrival Time: 63.402s
+Finish Time: 64.409s
+Service Time: 0.575s
+I/O Time: 0.306
+Turnaround time: 1.007s
+Waiting time: 0.068s
+
+Process: 4
+Arrival Time: 91.662s
+Finish Time: 136.825s
+Service Time: 14.239s
+I/O Time: 21.860
+Turnaround time: 45.163s
+Waiting time: 7.387s
+
+Process: 5
+Arrival Time: 180.308s
+Finish Time: 187.410s
+Service Time: 2.888s
+I/O Time: 2.217
+Turnaround time: 7.102s
+Waiting time: 0.154s
+
+Process: 2
+Arrival Time: 66.821s
+Finish Time: 191.118s
+Service Time: 20.150s
+I/O Time: 91.140
+Turnaround time: 124.297s
+Waiting time: 85.458s
+
+Process: 0
+Arrival Time: 51.767s
+Finish Time: 259.631s
+Service Time: 54.632s
+I/O Time: 134.205
+Turnaround time: 207.865s
+Waiting time: 21.067s
+
+Process: 3
+Arrival Time: 87.513s
+Finish Time: 271.470s
+Service Time: 28.433s
+I/O Time: 132.784
+Turnaround time: 183.958s
+Waiting time: 113.869s
+
+Process: 6
+Arrival Time: 206.059s
+Finish Time: 304.782s
+Service Time: 22.936s
+I/O Time: 54.044
+Turnaround time: 98.723s
+Waiting time: 8.940s
+
+Process: 9
+Arrival Time: 283.342s
+Finish Time: 384.136s
+Service Time: 29.416s
+I/O Time: 53.674
+Turnaround time: 100.794s
+Waiting time: 3.244s
+
+Process: 7
+Arrival Time: 233.861s
+Finish Time: 408.980s
+Service Time: 29.870s
+I/O Time: 135.433
+Turnaround time: 175.119s
+Waiting time: 252.636s
+
+Process: 8
+Arrival Time: 251.069s
+Finish Time: 432.945s
+Service Time: 34.255s
+I/O Time: 144.588
+Turnaround time: 181.876s
+Waiting time: 264.614s
+
+All processes finished...
+CPU Utilization: 54.852%
+Throughput: 0.023 jobs / s
+Average turnaround: 112.590
+Average Waiting Time: 75.744
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 1
+
+Input amount of processes
+Enter: 20
+
+Starting FCFS Simulation...
+
+Process: 0
+Arrival Time: 45.861s
+Finish Time: 55.692s
+Service Time: 5.533s
+I/O Time: 4.260
+Turnaround time: 9.831s
+Waiting time: 0.000s
+
+Process: 2
+Arrival Time: 80.507s
+Finish Time: 89.494s
+Service Time: 2.865s
+I/O Time: 3.464
+Turnaround time: 8.987s
+Waiting time: 2.964s
+
+Process: 6
+Arrival Time: 175.402s
+Finish Time: 193.679s
+Service Time: 5.381s
+I/O Time: 8.814
+Turnaround time: 18.276s
+Waiting time: 180.144s
+
+Process: 3
+Arrival Time: 81.767s
+Finish Time: 201.082s
+Service Time: 43.745s
+I/O Time: 30.129
+Turnaround time: 119.315s
+Waiting time: 92.766s
+
+Process: 12
+Arrival Time: 222.982s
+Finish Time: 253.827s
+Service Time: 6.210s
+I/O Time: 4.137
+Turnaround time: 30.845s
+Waiting time: 242.553s
+
+Process: 13
+Arrival Time: 223.869s
+Finish Time: 277.776s
+Service Time: 4.683s
+I/O Time: 7.869
+Turnaround time: 53.907s
+Waiting time: 264.814s
+
+Process: 11
+Arrival Time: 219.965s
+Finish Time: 369.559s
+Service Time: 27.431s
+I/O Time: 19.147
+Turnaround time: 149.594s
+Waiting time: 316.205s
+
+Process: 19
+Arrival Time: 297.263s
+Finish Time: 547.264s
+Service Time: 31.260s
+I/O Time: 69.060
+Turnaround time: 250.001s
+Waiting time: 454.140s
+
+Process: 17
+Arrival Time: 258.524s
+Finish Time: 553.503s
+Service Time: 34.067s
+I/O Time: 80.142
+Turnaround time: 294.979s
+Waiting time: 456.302s
+
+Process: 1
+Arrival Time: 57.513s
+Finish Time: 574.418s
+Service Time: 46.104s
+I/O Time: 210.665
+Turnaround time: 516.905s
+Waiting time: 310.530s
+
+Process: 15
+Arrival Time: 231.333s
+Finish Time: 607.387s
+Service Time: 43.938s
+I/O Time: 115.969
+Turnaround time: 376.054s
+Waiting time: 482.136s
+
+Process: 14
+Arrival Time: 226.308s
+Finish Time: 622.943s
+Service Time: 26.265s
+I/O Time: 126.585
+Turnaround time: 396.635s
+Waiting time: 498.091s
+
+Process: 5
+Arrival Time: 140.832s
+Finish Time: 665.454s
+Service Time: 46.718s
+I/O Time: 200.090
+Turnaround time: 524.622s
+Waiting time: 440.369s
+
+Process: 4
+Arrival Time: 86.069s
+Finish Time: 668.540s
+Service Time: 51.072s
+I/O Time: 196.336
+Turnaround time: 582.471s
+Waiting time: 374.971s
+
+Process: 9
+Arrival Time: 203.821s
+Finish Time: 716.853s
+Service Time: 46.166s
+I/O Time: 199.868
+Turnaround time: 513.032s
+Waiting time: 499.176s
+
+Process: 16
+Arrival Time: 248.342s
+Finish Time: 730.579s
+Service Time: 41.989s
+I/O Time: 200.549
+Turnaround time: 482.237s
+Waiting time: 526.409s
+
+Process: 8
+Arrival Time: 198.059s
+Finish Time: 759.310s
+Service Time: 58.391s
+I/O Time: 234.328
+Turnaround time: 561.251s
+Waiting time: 500.531s
+
+Process: 10
+Arrival Time: 218.359s
+Finish Time: 763.391s
+Service Time: 33.407s
+I/O Time: 39.837
+Turnaround time: 545.032s
+Waiting time: 353.081s
+
+Process: 18
+Arrival Time: 296.303s
+Finish Time: 771.490s
+Service Time: 52.873s
+I/O Time: 255.266
+Turnaround time: 475.187s
+Waiting time: 550.183s
+
+Process: 7
+Arrival Time: 194.662s
+Finish Time: 782.177s
+Service Time: 59.130s
+I/O Time: 285.222
+Turnaround time: 587.515s
+Waiting time: 321.180s
+
+All processes finished...
+CPU Utilization: 85.351%
+Throughput: 0.026 jobs / s
+Average turnaround: 324.834
+Average Waiting Time: 343.327
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 1
+
+Input amount of processes
+Enter: 20
+
+Starting FCFS Simulation...
+
+Process: 3
+Arrival Time: 30.059s
+Finish Time: 46.816s
+Service Time: 4.391s
+I/O Time: 4.376
+Turnaround time: 16.757s
+Waiting time: 38.312s
+
+Process: 5
+Arrival Time: 52.821s
+Finish Time: 74.590s
+Service Time: 2.081s
+I/O Time: 8.685
+Turnaround time: 21.769s
+Waiting time: 65.184s
+
+Process: 1
+Arrival Time: 23.513s
+Finish Time: 140.573s
+Service Time: 33.978s
+I/O Time: 31.806
+Turnaround time: 117.060s
+Waiting time: 44.227s
+
+Process: 2
+Arrival Time: 26.861s
+Finish Time: 190.533s
+Service Time: 18.045s
+I/O Time: 62.753
+Turnaround time: 163.672s
+Waiting time: 120.525s
+
+Process: 14
+Arrival Time: 204.342s
+Finish Time: 282.014s
+Service Time: 16.203s
+I/O Time: 13.354
+Turnaround time: 77.672s
+Waiting time: 246.007s
+
+Process: 16
+Arrival Time: 224.982s
+Finish Time: 325.883s
+Service Time: 20.434s
+I/O Time: 16.868
+Turnaround time: 100.901s
+Waiting time: 283.890s
+
+Process: 10
+Arrival Time: 125.662s
+Finish Time: 328.222s
+Service Time: 13.282s
+I/O Time: 57.363
+Turnaround time: 202.560s
+Waiting time: 260.810s
+
+Process: 4
+Arrival Time: 32.965s
+Finish Time: 386.389s
+Service Time: 46.770s
+I/O Time: 108.512
+Turnaround time: 353.424s
+Waiting time: 246.407s
+
+Process: 19
+Arrival Time: 283.402s
+Finish Time: 543.495s
+Service Time: 21.938s
+I/O Time: 100.587
+Turnaround time: 260.093s
+Waiting time: 451.821s
+
+Process: 0
+Arrival Time: 7.303s
+Finish Time: 569.088s
+Service Time: 45.287s
+I/O Time: 214.569
+Turnaround time: 561.785s
+Waiting time: 336.759s
+
+Process: 8
+Arrival Time: 103.359s
+Finish Time: 575.456s
+Service Time: 36.642s
+I/O Time: 177.864
+Turnaround time: 472.097s
+Waiting time: 409.212s
+
+Process: 7
+Arrival Time: 83.767s
+Finish Time: 578.261s
+Service Time: 45.164s
+I/O Time: 186.441
+Turnaround time: 494.494s
+Waiting time: 400.750s
+
+Process: 15
+Arrival Time: 220.069s
+Finish Time: 582.148s
+Service Time: 29.755s
+I/O Time: 125.752
+Turnaround time: 362.079s
+Waiting time: 448.418s
+
+Process: 17
+Arrival Time: 259.263s
+Finish Time: 616.688s
+Service Time: 39.524s
+I/O Time: 138.682
+Turnaround time: 357.425s
+Waiting time: 470.506s
+
+Process: 12
+Arrival Time: 170.524s
+Finish Time: 627.165s
+Service Time: 36.546s
+I/O Time: 175.766
+Turnaround time: 456.641s
+Waiting time: 446.183s
+
+Process: 6
+Arrival Time: 56.507s
+Finish Time: 640.058s
+Service Time: 54.091s
+I/O Time: 237.982
+Turnaround time: 583.551s
+Waiting time: 400.658s
+
+Process: 9
+Arrival Time: 111.869s
+Finish Time: 671.231s
+Service Time: 51.094s
+I/O Time: 198.997
+Turnaround time: 559.362s
+Waiting time: 375.215s
+
+Process: 13
+Arrival Time: 176.308s
+Finish Time: 687.342s
+Service Time: 45.308s
+I/O Time: 215.693
+Turnaround time: 511.034s
+Waiting time: 457.738s
+
+Process: 11
+Arrival Time: 137.333s
+Finish Time: 687.792s
+Service Time: 53.438s
+I/O Time: 213.181
+Turnaround time: 550.459s
+Waiting time: 394.376s
+
+Process: 18
+Arrival Time: 281.832s
+Finish Time: 697.731s
+Service Time: 30.876s
+I/O Time: 70.611
+Turnaround time: 415.899s
+Waiting time: 318.705s
+
+All processes finished...
+CPU Utilization: 92.459%
+Throughput: 0.029 jobs / s
+Average turnaround: 331.937
+Average Waiting Time: 310.785
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 1
+
+Input amount of processes
+Enter: 100
+
+Starting FCFS Simulation...
+
+Process: 0
+Arrival Time: 0.809s
+Finish Time: 33.754s
+Service Time: 10.191s
+I/O Time: 11.434
+Turnaround time: 32.944s
+Waiting time: 11.541s
+
+Process: 18
+Arrival Time: 43.445s
+Finish Time: 83.881s
+Service Time: 2.209s
+I/O Time: 2.617
+Turnaround time: 40.435s
+Waiting time: 79.875s
+
+Process: 32
+Arrival Time: 92.829s
+Finish Time: 109.049s
+Service Time: 0.592s
+I/O Time: 0.910
+Turnaround time: 16.220s
+Waiting time: 107.354s
+
+Process: 59
+Arrival Time: 163.656s
+Finish Time: 166.006s
+Service Time: 0.004s
+I/O Time: 0.000
+Turnaround time: 2.349s
+Waiting time: 165.908s
+
+Process: 30
+Arrival Time: 87.982s
+Finish Time: 292.509s
+Service Time: 6.518s
+I/O Time: 5.534
+Turnaround time: 204.527s
+Waiting time: 279.936s
+
+Process: 71
+Arrival Time: 196.362s
+Finish Time: 401.252s
+Service Time: 3.388s
+I/O Time: 3.854
+Turnaround time: 204.890s
+Waiting time: 394.002s
+
+Process: 51
+Arrival Time: 147.532s
+Finish Time: 416.106s
+Service Time: 5.747s
+I/O Time: 5.046
+Turnaround time: 268.573s
+Waiting time: 405.078s
+
+Process: 26
+Arrival Time: 70.134s
+Finish Time: 421.447s
+Service Time: 5.840s
+I/O Time: 8.971
+Turnaround time: 351.313s
+Waiting time: 407.973s
+
+Process: 5
+Arrival Time: 21.554s
+Finish Time: 458.941s
+Service Time: 13.342s
+I/O Time: 14.532
+Turnaround time: 437.386s
+Waiting time: 431.451s
+
+Process: 53
+Arrival Time: 150.251s
+Finish Time: 495.052s
+Service Time: 7.623s
+I/O Time: 6.201
+Turnaround time: 344.801s
+Waiting time: 480.032s
+
+Process: 28
+Arrival Time: 78.357s
+Finish Time: 522.920s
+Service Time: 3.836s
+I/O Time: 10.684
+Turnaround time: 444.563s
+Waiting time: 508.266s
+
+Process: 83
+Arrival Time: 222.307s
+Finish Time: 577.969s
+Service Time: 4.731s
+I/O Time: 6.498
+Turnaround time: 355.661s
+Waiting time: 567.285s
+
+Process: 74
+Arrival Time: 210.359s
+Finish Time: 778.378s
+Service Time: 2.353s
+I/O Time: 11.772
+Turnaround time: 568.019s
+Waiting time: 763.460s
+
+Process: 12
+Arrival Time: 31.861s
+Finish Time: 786.602s
+Service Time: 27.337s
+I/O Time: 19.562
+Turnaround time: 754.741s
+Waiting time: 731.536s
+
+Process: 39
+Arrival Time: 119.497s
+Finish Time: 797.167s
+Service Time: 12.367s
+I/O Time: 14.651
+Turnaround time: 677.670s
+Waiting time: 769.265s
+
+Process: 61
+Arrival Time: 170.143s
+Finish Time: 806.210s
+Service Time: 17.263s
+I/O Time: 13.295
+Turnaround time: 636.066s
+Waiting time: 769.439s
+
+Process: 86
+Arrival Time: 228.145s
+Finish Time: 810.617s
+Service Time: 11.111s
+I/O Time: 11.988
+Turnaround time: 582.471s
+Waiting time: 787.576s
+
+Process: 80
+Arrival Time: 216.769s
+Finish Time: 870.054s
+Service Time: 17.610s
+I/O Time: 13.019
+Turnaround time: 653.284s
+Waiting time: 837.448s
+
+Process: 63
+Arrival Time: 172.472s
+Finish Time: 883.322s
+Service Time: 3.647s
+I/O Time: 15.182
+Turnaround time: 710.849s
+Waiting time: 866.518s
+
+Process: 73
+Arrival Time: 199.472s
+Finish Time: 988.143s
+Service Time: 20.291s
+I/O Time: 17.170
+Turnaround time: 788.670s
+Waiting time: 949.028s
+
+Process: 46
+Arrival Time: 139.736s
+Finish Time: 1058.912s
+Service Time: 11.783s
+I/O Time: 22.872
+Turnaround time: 919.175s
+Waiting time: 1026.841s
+
+Process: 79
+Arrival Time: 214.929s
+Finish Time: 1223.730s
+Service Time: 6.124s
+I/O Time: 26.619
+Turnaround time: 1008.801s
+Waiting time: 1192.796s
+
+Process: 9
+Arrival Time: 27.973s
+Finish Time: 1241.210s
+Service Time: 28.561s
+I/O Time: 36.577
+Turnaround time: 1213.237s
+Waiting time: 1168.973s
+
+Process: 66
+Arrival Time: 179.973s
+Finish Time: 1242.649s
+Service Time: 7.820s
+I/O Time: 28.571
+Turnaround time: 1062.675s
+Waiting time: 1207.973s
+
+Process: 70
+Arrival Time: 193.988s
+Finish Time: 1260.402s
+Service Time: 35.818s
+I/O Time: 28.765
+Turnaround time: 1066.414s
+Waiting time: 1181.653s
+
+Process: 3
+Arrival Time: 12.835s
+Finish Time: 1288.212s
+Service Time: 11.440s
+I/O Time: 45.022
+Turnaround time: 1275.377s
+Waiting time: 1234.542s
+
+Process: 90
+Arrival Time: 273.069s
+Finish Time: 1345.367s
+Service Time: 19.209s
+I/O Time: 31.820
+Turnaround time: 1072.297s
+Waiting time: 1294.537s
+
+Process: 95
+Arrival Time: 287.032s
+Finish Time: 1383.283s
+Service Time: 10.812s
+I/O Time: 32.803
+Turnaround time: 1096.251s
+Waiting time: 1340.650s
+
+Process: 99
+Arrival Time: 298.466s
+Finish Time: 1393.582s
+Service Time: 37.204s
+I/O Time: 31.630
+Turnaround time: 1095.115s
+Waiting time: 1317.619s
+
+Process: 38
+Arrival Time: 117.069s
+Finish Time: 1405.473s
+Service Time: 47.141s
+I/O Time: 36.964
+Turnaround time: 1288.404s
+Waiting time: 1305.326s
+
+Process: 43
+Arrival Time: 136.333s
+Finish Time: 1453.824s
+Service Time: 44.984s
+I/O Time: 39.145
+Turnaround time: 1317.491s
+Waiting time: 1360.303s
+
+Process: 76
+Arrival Time: 214.059s
+Finish Time: 1483.199s
+Service Time: 16.333s
+I/O Time: 40.167
+Turnaround time: 1269.139s
+Waiting time: 1426.134s
+
+Process: 77
+Arrival Time: 214.429s
+Finish Time: 1488.084s
+Service Time: 14.324s
+I/O Time: 40.350
+Turnaround time: 1273.654s
+Waiting time: 1436.582s
+
+Process: 81
+Arrival Time: 220.545s
+Finish Time: 1547.248s
+Service Time: 32.834s
+I/O Time: 43.635
+Turnaround time: 1326.702s
+Waiting time: 1475.137s
+
+Process: 15
+Arrival Time: 37.882s
+Finish Time: 1565.391s
+Service Time: 14.268s
+I/O Time: 52.600
+Turnaround time: 1527.509s
+Waiting time: 1498.452s
+
+Process: 67
+Arrival Time: 184.533s
+Finish Time: 1584.875s
+Service Time: 9.820s
+I/O Time: 46.992
+Turnaround time: 1400.342s
+Waiting time: 1522.041s
+
+Process: 21
+Arrival Time: 51.178s
+Finish Time: 1632.945s
+Service Time: 18.630s
+I/O Time: 56.726
+Turnaround time: 1581.767s
+Waiting time: 1555.760s
+
+Process: 91
+Arrival Time: 277.303s
+Finish Time: 1654.457s
+Service Time: 33.151s
+I/O Time: 50.426
+Turnaround time: 1377.154s
+Waiting time: 1570.589s
+
+Process: 58
+Arrival Time: 163.513s
+Finish Time: 1661.264s
+Service Time: 16.533s
+I/O Time: 51.955
+Turnaround time: 1497.751s
+Waiting time: 1593.456s
+
+Process: 88
+Arrival Time: 264.795s
+Finish Time: 1697.342s
+Service Time: 18.433s
+I/O Time: 53.567
+Turnaround time: 1432.546s
+Waiting time: 1626.971s
+
+Process: 17
+Arrival Time: 42.263s
+Finish Time: 1698.584s
+Service Time: 21.333s
+I/O Time: 62.581
+Turnaround time: 1656.320s
+Waiting time: 1619.404s
+
+Process: 60
+Arrival Time: 169.377s
+Finish Time: 1727.800s
+Service Time: 16.700s
+I/O Time: 58.779
+Turnaround time: 1558.423s
+Waiting time: 1660.825s
+
+Process: 14
+Arrival Time: 33.832s
+Finish Time: 1884.485s
+Service Time: 18.344s
+I/O Time: 78.137
+Turnaround time: 1850.653s
+Waiting time: 1798.526s
+
+Process: 37
+Arrival Time: 113.719s
+Finish Time: 1913.441s
+Service Time: 51.161s
+I/O Time: 74.933
+Turnaround time: 1799.722s
+Waiting time: 1797.045s
+
+Process: 7
+Arrival Time: 22.059s
+Finish Time: 1952.988s
+Service Time: 26.607s
+I/O Time: 85.900
+Turnaround time: 1930.928s
+Waiting time: 1851.024s
+
+Process: 93
+Arrival Time: 285.147s
+Finish Time: 1966.724s
+Service Time: 18.800s
+I/O Time: 73.983
+Turnaround time: 1681.576s
+Waiting time: 1880.322s
+
+Process: 40
+Arrival Time: 119.692s
+Finish Time: 1974.276s
+Service Time: 18.894s
+I/O Time: 80.118
+Turnaround time: 1854.583s
+Waiting time: 1873.546s
+
+Process: 54
+Arrival Time: 157.824s
+Finish Time: 2041.647s
+Service Time: 24.993s
+I/O Time: 85.129
+Turnaround time: 1883.822s
+Waiting time: 1946.101s
+
+Process: 19
+Arrival Time: 45.768s
+Finish Time: 2068.081s
+Service Time: 19.678s
+I/O Time: 92.556
+Turnaround time: 2022.312s
+Waiting time: 1957.309s
+
+Process: 62
+Arrival Time: 171.869s
+Finish Time: 2125.894s
+Service Time: 20.163s
+I/O Time: 93.126
+Turnaround time: 1954.024s
+Waiting time: 2024.840s
+
+Process: 64
+Arrival Time: 177.009s
+Finish Time: 2137.275s
+Service Time: 33.228s
+I/O Time: 93.246
+Turnaround time: 1960.266s
+Waiting time: 2027.918s
+
+Process: 94
+Arrival Time: 286.873s
+Finish Time: 2171.384s
+Service Time: 19.698s
+I/O Time: 94.275
+Turnaround time: 1884.511s
+Waiting time: 2061.260s
+
+Process: 22
+Arrival Time: 51.494s
+Finish Time: 2263.263s
+Service Time: 51.990s
+I/O Time: 109.652
+Turnaround time: 2211.769s
+Waiting time: 2099.468s
+
+Process: 72
+Arrival Time: 197.767s
+Finish Time: 2315.386s
+Service Time: 25.065s
+I/O Time: 110.738
+Turnaround time: 2117.619s
+Waiting time: 2205.124s
+
+Process: 47
+Arrival Time: 140.525s
+Finish Time: 2342.637s
+Service Time: 30.825s
+I/O Time: 113.965
+Turnaround time: 2202.112s
+Waiting time: 2212.845s
+
+Process: 52
+Arrival Time: 149.039s
+Finish Time: 2352.411s
+Service Time: 24.352s
+I/O Time: 113.060
+Turnaround time: 2203.372s
+Waiting time: 2199.842s
+
+Process: 92
+Arrival Time: 283.261s
+Finish Time: 2365.165s
+Service Time: 27.730s
+I/O Time: 114.099
+Turnaround time: 2081.904s
+Waiting time: 2253.487s
+
+Process: 56
+Arrival Time: 160.540s
+Finish Time: 2369.884s
+Service Time: 28.843s
+I/O Time: 117.926
+Turnaround time: 2209.343s
+Waiting time: 2234.085s
+
+Process: 16
+Arrival Time: 41.550s
+Finish Time: 2370.321s
+Service Time: 52.222s
+I/O Time: 121.106
+Turnaround time: 2328.771s
+Waiting time: 2170.835s
+
+Process: 68
+Arrival Time: 186.613s
+Finish Time: 2441.656s
+Service Time: 29.333s
+I/O Time: 123.658
+Turnaround time: 2255.043s
+Waiting time: 2284.535s
+
+Process: 31
+Arrival Time: 89.767s
+Finish Time: 2452.815s
+Service Time: 29.740s
+I/O Time: 130.082
+Turnaround time: 2363.048s
+Waiting time: 2321.316s
+
+Process: 78
+Arrival Time: 214.828s
+Finish Time: 2457.834s
+Service Time: 30.943s
+I/O Time: 126.213
+Turnaround time: 2243.006s
+Waiting time: 2316.571s
+
+Process: 49
+Arrival Time: 143.731s
+Finish Time: 2466.014s
+Service Time: 26.306s
+I/O Time: 130.618
+Turnaround time: 2322.283s
+Waiting time: 2329.618s
+
+Process: 97
+Arrival Time: 293.831s
+Finish Time: 2497.275s
+Service Time: 31.047s
+I/O Time: 129.726
+Turnaround time: 2203.444s
+Waiting time: 2353.285s
+
+Process: 13
+Arrival Time: 33.451s
+Finish Time: 2548.588s
+Service Time: 36.013s
+I/O Time: 146.041
+Turnaround time: 2515.137s
+Waiting time: 2393.208s
+
+Process: 75
+Arrival Time: 212.683s
+Finish Time: 2561.167s
+Service Time: 38.049s
+I/O Time: 139.323
+Turnaround time: 2348.484s
+Waiting time: 2395.205s
+
+Process: 69
+Arrival Time: 187.638s
+Finish Time: 2571.615s
+Service Time: 44.061s
+I/O Time: 142.121
+Turnaround time: 2383.977s
+Waiting time: 2429.606s
+
+Process: 33
+Arrival Time: 97.265s
+Finish Time: 2595.817s
+Service Time: 28.443s
+I/O Time: 117.076
+Turnaround time: 2498.551s
+Waiting time: 2108.471s
+
+Process: 29
+Arrival Time: 79.250s
+Finish Time: 2647.281s
+Service Time: 52.665s
+I/O Time: 152.361
+Turnaround time: 2568.031s
+Waiting time: 2438.963s
+
+Process: 44
+Arrival Time: 137.821s
+Finish Time: 2647.509s
+Service Time: 38.096s
+I/O Time: 155.029
+Turnaround time: 2509.688s
+Waiting time: 2473.858s
+
+Process: 2
+Arrival Time: 10.539s
+Finish Time: 2664.998s
+Service Time: 40.332s
+I/O Time: 171.930
+Turnaround time: 2654.459s
+Waiting time: 2482.996s
+
+Process: 98
+Arrival Time: 296.342s
+Finish Time: 2687.995s
+Service Time: 45.670s
+I/O Time: 156.529
+Turnaround time: 2391.652s
+Waiting time: 2493.236s
+
+Process: 8
+Arrival Time: 26.476s
+Finish Time: 2719.512s
+Service Time: 55.746s
+I/O Time: 170.281
+Turnaround time: 2693.036s
+Waiting time: 2506.724s
+
+Process: 10
+Arrival Time: 29.507s
+Finish Time: 2719.787s
+Service Time: 39.401s
+I/O Time: 172.485
+Turnaround time: 2690.280s
+Waiting time: 2523.306s
+
+Process: 50
+Arrival Time: 146.965s
+Finish Time: 2730.769s
+Service Time: 53.385s
+I/O Time: 169.447
+Turnaround time: 2583.804s
+Waiting time: 2543.857s
+
+Process: 96
+Arrival Time: 287.121s
+Finish Time: 2732.840s
+Service Time: 37.340s
+I/O Time: 164.415
+Turnaround time: 2445.719s
+Waiting time: 2552.219s
+
+Process: 6
+Arrival Time: 21.684s
+Finish Time: 2761.307s
+Service Time: 39.727s
+I/O Time: 182.748
+Turnaround time: 2739.623s
+Waiting time: 2564.399s
+
+Process: 82
+Arrival Time: 221.402s
+Finish Time: 2773.155s
+Service Time: 38.608s
+I/O Time: 177.743
+Turnaround time: 2551.752s
+Waiting time: 2602.965s
+
+Process: 48
+Arrival Time: 141.001s
+Finish Time: 2799.434s
+Service Time: 38.507s
+I/O Time: 184.088
+Turnaround time: 2658.432s
+Waiting time: 2598.407s
+
+Process: 87
+Arrival Time: 244.259s
+Finish Time: 2804.257s
+Service Time: 44.191s
+I/O Time: 173.800
+Turnaround time: 2559.998s
+Waiting time: 2532.763s
+
+Process: 57
+Arrival Time: 162.662s
+Finish Time: 2867.331s
+Service Time: 41.640s
+I/O Time: 199.807
+Turnaround time: 2704.669s
+Waiting time: 2668.130s
+
+Process: 42
+Arrival Time: 135.997s
+Finish Time: 2870.759s
+Service Time: 45.883s
+I/O Time: 200.301
+Turnaround time: 2734.762s
+Waiting time: 2644.269s
+
+Process: 1
+Arrival Time: 9.605s
+Finish Time: 2885.900s
+Service Time: 44.917s
+I/O Time: 218.941
+Turnaround time: 2876.295s
+Waiting time: 2638.248s
+
+Process: 11
+Arrival Time: 30.911s
+Finish Time: 2891.367s
+Service Time: 52.288s
+I/O Time: 213.151
+Turnaround time: 2860.456s
+Waiting time: 2664.278s
+
+Process: 35
+Arrival Time: 106.999s
+Finish Time: 2908.720s
+Service Time: 56.513s
+I/O Time: 214.576
+Turnaround time: 2801.721s
+Waiting time: 2678.929s
+
+Process: 23
+Arrival Time: 56.656s
+Finish Time: 2913.831s
+Service Time: 48.432s
+I/O Time: 218.749
+Turnaround time: 2857.175s
+Waiting time: 2663.619s
+
+Process: 41
+Arrival Time: 124.109s
+Finish Time: 2935.515s
+Service Time: 47.213s
+I/O Time: 224.611
+Turnaround time: 2811.405s
+Waiting time: 2722.563s
+
+Process: 34
+Arrival Time: 100.054s
+Finish Time: 2941.555s
+Service Time: 49.627s
+I/O Time: 229.920
+Turnaround time: 2841.501s
+Waiting time: 2716.107s
+
+Process: 45
+Arrival Time: 137.896s
+Finish Time: 2947.994s
+Service Time: 48.569s
+I/O Time: 229.622
+Turnaround time: 2810.098s
+Waiting time: 2724.241s
+
+Process: 89
+Arrival Time: 269.523s
+Finish Time: 2959.184s
+Service Time: 50.662s
+I/O Time: 230.959
+Turnaround time: 2689.661s
+Waiting time: 2720.690s
+
+Process: 25
+Arrival Time: 70.054s
+Finish Time: 2967.243s
+Service Time: 54.051s
+I/O Time: 234.529
+Turnaround time: 2897.189s
+Waiting time: 2715.691s
+
+Process: 36
+Arrival Time: 107.308s
+Finish Time: 2968.573s
+Service Time: 51.763s
+I/O Time: 238.396
+Turnaround time: 2861.265s
+Waiting time: 2682.316s
+
+Process: 84
+Arrival Time: 227.524s
+Finish Time: 2968.892s
+Service Time: 56.667s
+I/O Time: 239.298
+Turnaround time: 2741.367s
+Waiting time: 2714.783s
+
+Process: 85
+Arrival Time: 228.107s
+Finish Time: 2974.007s
+Service Time: 54.205s
+I/O Time: 244.695
+Turnaround time: 2745.900s
+Waiting time: 2726.564s
+
+Process: 65
+Arrival Time: 178.100s
+Finish Time: 2975.303s
+Service Time: 58.402s
+I/O Time: 245.223
+Turnaround time: 2797.202s
+Waiting time: 2710.210s
+
+Process: 27
+Arrival Time: 75.955s
+Finish Time: 2982.719s
+Service Time: 59.921s
+I/O Time: 259.482
+Turnaround time: 2906.763s
+Waiting time: 2723.297s
+
+Process: 55
+Arrival Time: 159.936s
+Finish Time: 2997.425s
+Service Time: 39.689s
+I/O Time: 109.029
+Turnaround time: 2837.489s
+Waiting time: 2141.894s
+
+Process: 4
+Arrival Time: 16.015s
+Finish Time: 3004.051s
+Service Time: 58.811s
+I/O Time: 272.225
+Turnaround time: 2988.035s
+Waiting time: 2679.724s
+
+Process: 24
+Arrival Time: 60.066s
+Finish Time: 3015.261s
+Service Time: 57.615s
+I/O Time: 270.782
+Turnaround time: 2955.195s
+Waiting time: 2699.242s
+
+Process: 20
+Arrival Time: 46.184s
+Finish Time: 3027.977s
+Service Time: 58.686s
+I/O Time: 272.722
+Turnaround time: 2981.793s
+Waiting time: 2680.341s
+
+All processes finished...
+CPU Utilization: 98.958%
+Throughput: 0.033 jobs / s
+Average turnaround: 1794.486
+Average Waiting Time: 1800.837
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 1
+
+Input amount of processes
+Enter: 100
+
+Starting FCFS Simulation...
+
+Process: 1
+Arrival Time: 10.362s
+Finish Time: 23.593s
+Service Time: 2.949s
+I/O Time: 5.028
+Turnaround time: 13.231s
+Waiting time: 1.335s
+
+Process: 41
+Arrival Time: 124.769s
+Finish Time: 207.756s
+Service Time: 1.262s
+I/O Time: 2.204
+Turnaround time: 82.986s
+Waiting time: 204.187s
+
+Process: 4
+Arrival Time: 21.066s
+Finish Time: 216.893s
+Service Time: 18.757s
+I/O Time: 12.346
+Turnaround time: 195.827s
+Waiting time: 173.590s
+
+Process: 45
+Arrival Time: 145.973s
+Finish Time: 247.324s
+Service Time: 3.411s
+I/O Time: 2.167
+Turnaround time: 101.351s
+Waiting time: 241.217s
+
+Process: 56
+Arrival Time: 183.259s
+Finish Time: 248.290s
+Service Time: 1.963s
+I/O Time: 1.150
+Turnaround time: 65.031s
+Waiting time: 244.826s
+
+Process: 95
+Arrival Time: 287.832s
+Finish Time: 428.282s
+Service Time: 1.397s
+I/O Time: 2.175
+Turnaround time: 140.450s
+Waiting time: 424.814s
+
+Process: 58
+Arrival Time: 188.069s
+Finish Time: 452.358s
+Service Time: 6.516s
+I/O Time: 3.853
+Turnaround time: 264.289s
+Waiting time: 440.396s
+
+Process: 97
+Arrival Time: 292.429s
+Finish Time: 478.505s
+Service Time: 2.706s
+I/O Time: 2.705
+Turnaround time: 186.075s
+Waiting time: 473.576s
+
+Process: 12
+Arrival Time: 55.882s
+Finish Time: 486.567s
+Service Time: 15.886s
+I/O Time: 10.539
+Turnaround time: 430.685s
+Waiting time: 458.351s
+
+Process: 50
+Arrival Time: 166.059s
+Finish Time: 551.458s
+Service Time: 3.361s
+I/O Time: 6.742
+Turnaround time: 385.398s
+Waiting time: 540.722s
+
+Process: 55
+Arrival Time: 182.795s
+Finish Time: 553.551s
+Service Time: 6.743s
+I/O Time: 6.137
+Turnaround time: 370.755s
+Waiting time: 540.792s
+
+Process: 44
+Arrival Time: 137.472s
+Finish Time: 576.471s
+Service Time: 7.204s
+I/O Time: 7.861
+Turnaround time: 438.999s
+Waiting time: 561.576s
+
+Process: 24
+Arrival Time: 77.831s
+Finish Time: 638.189s
+Service Time: 14.830s
+I/O Time: 11.228
+Turnaround time: 560.358s
+Waiting time: 610.677s
+
+Process: 74
+Arrival Time: 234.662s
+Finish Time: 648.403s
+Service Time: 9.785s
+I/O Time: 6.663
+Turnaround time: 413.741s
+Waiting time: 630.061s
+
+Process: 25
+Arrival Time: 80.507s
+Finish Time: 670.144s
+Service Time: 2.406s
+I/O Time: 12.368
+Turnaround time: 589.637s
+Waiting time: 655.077s
+
+Process: 93
+Arrival Time: 281.100s
+Finish Time: 821.263s
+Service Time: 5.809s
+I/O Time: 9.554
+Turnaround time: 540.163s
+Waiting time: 806.336s
+
+Process: 16
+Arrival Time: 60.532s
+Finish Time: 877.351s
+Service Time: 22.743s
+I/O Time: 17.595
+Turnaround time: 816.819s
+Waiting time: 834.433s
+
+Process: 98
+Arrival Time: 293.869s
+Finish Time: 923.710s
+Service Time: 12.216s
+I/O Time: 11.664
+Turnaround time: 629.840s
+Waiting time: 898.942s
+
+Process: 29
+Arrival Time: 84.999s
+Finish Time: 1004.562s
+Service Time: 29.080s
+I/O Time: 18.016
+Turnaround time: 919.563s
+Waiting time: 951.401s
+
+Process: 67
+Arrival Time: 212.896s
+Finish Time: 1057.693s
+Service Time: 11.495s
+I/O Time: 16.342
+Turnaround time: 844.797s
+Waiting time: 1031.592s
+
+Process: 75
+Arrival Time: 235.692s
+Finish Time: 1096.670s
+Service Time: 14.600s
+I/O Time: 16.830
+Turnaround time: 860.977s
+Waiting time: 1067.224s
+
+Process: 13
+Arrival Time: 56.513s
+Finish Time: 1121.047s
+Service Time: 20.363s
+I/O Time: 23.595
+Turnaround time: 1064.534s
+Waiting time: 1080.400s
+
+Process: 76
+Arrival Time: 240.357s
+Finish Time: 1147.210s
+Service Time: 4.351s
+I/O Time: 18.032
+Turnaround time: 906.853s
+Waiting time: 1126.529s
+
+Process: 51
+Arrival Time: 170.494s
+Finish Time: 1178.458s
+Service Time: 32.904s
+I/O Time: 19.813
+Turnaround time: 1007.964s
+Waiting time: 1117.938s
+
+Process: 80
+Arrival Time: 250.303s
+Finish Time: 1231.588s
+Service Time: 12.720s
+I/O Time: 20.981
+Turnaround time: 981.285s
+Waiting time: 1200.233s
+
+Process: 77
+Arrival Time: 242.476s
+Finish Time: 1249.453s
+Service Time: 3.934s
+I/O Time: 21.533
+Turnaround time: 1006.977s
+Waiting time: 1223.943s
+
+Process: 10
+Arrival Time: 45.333s
+Finish Time: 1257.326s
+Service Time: 6.741s
+I/O Time: 30.167
+Turnaround time: 1211.993s
+Waiting time: 1218.806s
+
+Process: 96
+Arrival Time: 288.988s
+Finish Time: 1287.133s
+Service Time: 41.485s
+I/O Time: 20.823
+Turnaround time: 998.145s
+Waiting time: 1214.603s
+
+Process: 52
+Arrival Time: 172.054s
+Finish Time: 1325.315s
+Service Time: 36.430s
+I/O Time: 24.179
+Turnaround time: 1153.261s
+Waiting time: 1254.557s
+
+Process: 39
+Arrival Time: 113.873s
+Finish Time: 1335.881s
+Service Time: 51.479s
+I/O Time: 26.627
+Turnaround time: 1222.008s
+Waiting time: 1245.894s
+
+Process: 22
+Arrival Time: 73.809s
+Finish Time: 1339.216s
+Service Time: 23.628s
+I/O Time: 29.297
+Turnaround time: 1265.406s
+Waiting time: 1288.097s
+
+Process: 21
+Arrival Time: 73.767s
+Finish Time: 1364.932s
+Service Time: 8.133s
+I/O Time: 31.018
+Turnaround time: 1291.165s
+Waiting time: 1327.263s
+
+Process: 23
+Arrival Time: 74.359s
+Finish Time: 1487.671s
+Service Time: 20.199s
+I/O Time: 36.575
+Turnaround time: 1413.312s
+Waiting time: 1435.571s
+
+Process: 69
+Arrival Time: 218.835s
+Finish Time: 1508.426s
+Service Time: 6.679s
+I/O Time: 32.612
+Turnaround time: 1289.591s
+Waiting time: 1470.227s
+
+Process: 64
+Arrival Time: 200.250s
+Finish Time: 1550.431s
+Service Time: 54.618s
+I/O Time: 33.691
+Turnaround time: 1350.181s
+Waiting time: 1443.438s
+
+Process: 46
+Arrival Time: 149.613s
+Finish Time: 1572.255s
+Service Time: 33.281s
+I/O Time: 38.191
+Turnaround time: 1422.642s
+Waiting time: 1500.587s
+
+Process: 49
+Arrival Time: 165.342s
+Finish Time: 1577.555s
+Service Time: 32.941s
+I/O Time: 38.046
+Turnaround time: 1412.212s
+Waiting time: 1508.191s
+
+Process: 87
+Arrival Time: 261.466s
+Finish Time: 1669.736s
+Service Time: 42.938s
+I/O Time: 38.794
+Turnaround time: 1408.269s
+Waiting time: 1551.277s
+
+Process: 62
+Arrival Time: 196.184s
+Finish Time: 1689.764s
+Service Time: 8.811s
+I/O Time: 44.576
+Turnaround time: 1493.580s
+Waiting time: 1639.921s
+
+Process: 73
+Arrival Time: 230.134s
+Finish Time: 1698.141s
+Service Time: 17.987s
+I/O Time: 45.242
+Turnaround time: 1468.007s
+Waiting time: 1636.334s
+
+Process: 27
+Arrival Time: 82.684s
+Finish Time: 1698.233s
+Service Time: 37.803s
+I/O Time: 49.498
+Turnaround time: 1615.549s
+Waiting time: 1609.500s
+
+Process: 72
+Arrival Time: 226.001s
+Finish Time: 1724.014s
+Service Time: 9.444s
+I/O Time: 46.394
+Turnaround time: 1498.012s
+Waiting time: 1671.479s
+
+Process: 79
+Arrival Time: 247.121s
+Finish Time: 1730.327s
+Service Time: 44.774s
+I/O Time: 45.836
+Turnaround time: 1483.206s
+Waiting time: 1634.978s
+
+Process: 31
+Arrival Time: 93.824s
+Finish Time: 1779.274s
+Service Time: 13.257s
+I/O Time: 54.458
+Turnaround time: 1685.450s
+Waiting time: 1716.803s
+
+Process: 0
+Arrival Time: 5.656s
+Finish Time: 1792.110s
+Service Time: 17.408s
+I/O Time: 86.410
+Turnaround time: 1786.453s
+Waiting time: 1671.320s
+
+Process: 71
+Arrival Time: 219.539s
+Finish Time: 1802.738s
+Service Time: 14.166s
+I/O Time: 53.206
+Turnaround time: 1583.199s
+Waiting time: 1741.359s
+
+Process: 14
+Arrival Time: 57.308s
+Finish Time: 1858.836s
+Service Time: 13.979s
+I/O Time: 64.858
+Turnaround time: 1801.528s
+Waiting time: 1774.638s
+
+Process: 28
+Arrival Time: 84.821s
+Finish Time: 1897.312s
+Service Time: 28.801s
+I/O Time: 66.388
+Turnaround time: 1812.491s
+Waiting time: 1813.304s
+
+Process: 82
+Arrival Time: 256.768s
+Finish Time: 1901.918s
+Service Time: 36.637s
+I/O Time: 61.383
+Turnaround time: 1645.150s
+Waiting time: 1810.045s
+
+Process: 26
+Arrival Time: 81.265s
+Finish Time: 1903.747s
+Service Time: 34.760s
+I/O Time: 66.348
+Turnaround time: 1822.482s
+Waiting time: 1808.355s
+
+Process: 30
+Arrival Time: 90.605s
+Finish Time: 1986.134s
+Service Time: 46.702s
+I/O Time: 73.882
+Turnaround time: 1895.529s
+Waiting time: 1867.646s
+
+Process: 35
+Arrival Time: 106.965s
+Finish Time: 2014.001s
+Service Time: 22.869s
+I/O Time: 74.496
+Turnaround time: 1907.036s
+Waiting time: 1916.725s
+
+Process: 78
+Arrival Time: 242.533s
+Finish Time: 2045.287s
+Service Time: 21.017s
+I/O Time: 74.116
+Turnaround time: 1802.754s
+Waiting time: 1951.789s
+
+Process: 2
+Arrival Time: 13.015s
+Finish Time: 2058.465s
+Service Time: 21.361s
+I/O Time: 108.882
+Turnaround time: 2045.449s
+Waiting time: 1937.337s
+
+Process: 43
+Arrival Time: 131.955s
+Finish Time: 2122.827s
+Service Time: 19.629s
+I/O Time: 83.438
+Turnaround time: 1990.871s
+Waiting time: 2001.467s
+
+Process: 81
+Arrival Time: 255.973s
+Finish Time: 2126.826s
+Service Time: 17.410s
+I/O Time: 81.662
+Turnaround time: 1870.853s
+Waiting time: 2038.813s
+
+Process: 34
+Arrival Time: 104.523s
+Finish Time: 2149.923s
+Service Time: 24.743s
+I/O Time: 87.618
+Turnaround time: 2045.400s
+Waiting time: 2044.602s
+
+Process: 33
+Arrival Time: 104.147s
+Finish Time: 2174.212s
+Service Time: 19.383s
+I/O Time: 92.092
+Turnaround time: 2070.064s
+Waiting time: 2077.784s
+
+Process: 90
+Arrival Time: 274.911s
+Finish Time: 2180.241s
+Service Time: 35.413s
+I/O Time: 86.814
+Turnaround time: 1905.330s
+Waiting time: 2065.729s
+
+Process: 19
+Arrival Time: 71.251s
+Finish Time: 2185.282s
+Service Time: 25.057s
+I/O Time: 92.620
+Turnaround time: 2114.031s
+Waiting time: 2067.004s
+
+Process: 61
+Arrival Time: 193.828s
+Finish Time: 2194.907s
+Service Time: 53.764s
+I/O Time: 70.930
+Turnaround time: 2001.079s
+Waiting time: 1893.926s
+
+Process: 91
+Arrival Time: 277.731s
+Finish Time: 2213.525s
+Service Time: 19.912s
+I/O Time: 90.392
+Turnaround time: 1935.794s
+Waiting time: 2112.289s
+
+Process: 70
+Arrival Time: 218.982s
+Finish Time: 2231.555s
+Service Time: 32.810s
+I/O Time: 93.338
+Turnaround time: 2012.573s
+Waiting time: 2116.894s
+
+Process: 15
+Arrival Time: 59.377s
+Finish Time: 2239.408s
+Service Time: 48.050s
+I/O Time: 101.081
+Turnaround time: 2180.031s
+Waiting time: 2111.724s
+
+Process: 66
+Arrival Time: 205.829s
+Finish Time: 2273.661s
+Service Time: 21.009s
+I/O Time: 99.765
+Turnaround time: 2067.832s
+Waiting time: 2161.466s
+
+Process: 20
+Arrival Time: 71.261s
+Finish Time: 2339.360s
+Service Time: 23.595s
+I/O Time: 114.374
+Turnaround time: 2268.099s
+Waiting time: 2215.748s
+
+Process: 99
+Arrival Time: 293.936s
+Finish Time: 2356.413s
+Service Time: 42.513s
+I/O Time: 109.744
+Turnaround time: 2062.477s
+Waiting time: 2216.264s
+
+Process: 42
+Arrival Time: 128.054s
+Finish Time: 2358.914s
+Service Time: 25.105s
+I/O Time: 114.041
+Turnaround time: 2230.860s
+Waiting time: 2236.830s
+
+Process: 38
+Arrival Time: 113.069s
+Finish Time: 2363.318s
+Service Time: 23.629s
+I/O Time: 115.758
+Turnaround time: 2250.249s
+Waiting time: 2247.355s
+
+Process: 11
+Arrival Time: 49.307s
+Finish Time: 2366.184s
+Service Time: 50.559s
+I/O Time: 119.723
+Turnaround time: 2316.876s
+Waiting time: 2214.100s
+
+Process: 85
+Arrival Time: 260.451s
+Finish Time: 2382.303s
+Service Time: 25.215s
+I/O Time: 112.911
+Turnaround time: 2121.852s
+Waiting time: 2244.166s
+
+Process: 54
+Arrival Time: 179.143s
+Finish Time: 2404.988s
+Service Time: 39.571s
+I/O Time: 117.053
+Turnaround time: 2225.844s
+Waiting time: 2237.508s
+
+Process: 63
+Arrival Time: 196.767s
+Finish Time: 2426.622s
+Service Time: 25.913s
+I/O Time: 117.567
+Turnaround time: 2229.855s
+Waiting time: 2276.584s
+
+Process: 86
+Arrival Time: 261.032s
+Finish Time: 2506.206s
+Service Time: 29.708s
+I/O Time: 134.422
+Turnaround time: 2245.174s
+Waiting time: 2359.406s
+
+Process: 40
+Arrival Time: 115.929s
+Finish Time: 2545.732s
+Service Time: 37.646s
+I/O Time: 147.946
+Turnaround time: 2429.803s
+Waiting time: 2382.919s
+
+Process: 3
+Arrival Time: 16.178s
+Finish Time: 2548.346s
+Service Time: 38.808s
+I/O Time: 168.711
+Turnaround time: 2532.168s
+Waiting time: 2359.022s
+
+Process: 47
+Arrival Time: 152.263s
+Finish Time: 2554.049s
+Service Time: 42.135s
+I/O Time: 146.147
+Turnaround time: 2401.786s
+Waiting time: 2370.750s
+
+Process: 88
+Arrival Time: 262.107s
+Finish Time: 2584.048s
+Service Time: 26.230s
+I/O Time: 126.327
+Turnaround time: 2321.941s
+Waiting time: 2261.123s
+
+Process: 37
+Arrival Time: 111.683s
+Finish Time: 2604.392s
+Service Time: 33.192s
+I/O Time: 158.316
+Turnaround time: 2492.709s
+Waiting time: 2436.461s
+
+Process: 8
+Arrival Time: 43.638s
+Finish Time: 2706.229s
+Service Time: 45.673s
+I/O Time: 191.179
+Turnaround time: 2662.591s
+Waiting time: 2506.008s
+
+Process: 32
+Arrival Time: 101.109s
+Finish Time: 2708.494s
+Service Time: 41.329s
+I/O Time: 187.345
+Turnaround time: 2607.385s
+Waiting time: 2529.222s
+
+Process: 9
+Arrival Time: 44.545s
+Finish Time: 2709.057s
+Service Time: 51.614s
+I/O Time: 192.809
+Turnaround time: 2664.511s
+Waiting time: 2498.570s
+
+Process: 89
+Arrival Time: 264.497s
+Finish Time: 2725.162s
+Service Time: 37.259s
+I/O Time: 186.617
+Turnaround time: 2460.665s
+Waiting time: 2550.157s
+
+Process: 53
+Arrival Time: 176.525s
+Finish Time: 2770.804s
+Service Time: 53.734s
+I/O Time: 203.169
+Turnaround time: 2594.279s
+Waiting time: 2574.521s
+
+Process: 6
+Arrival Time: 34.997s
+Finish Time: 2772.257s
+Service Time: 46.455s
+I/O Time: 213.454
+Turnaround time: 2737.260s
+Waiting time: 2542.307s
+
+Process: 48
+Arrival Time: 163.059s
+Finish Time: 2772.971s
+Service Time: 47.071s
+I/O Time: 204.732
+Turnaround time: 2609.911s
+Waiting time: 2570.589s
+
+Process: 60
+Arrival Time: 193.039s
+Finish Time: 2779.449s
+Service Time: 50.272s
+I/O Time: 191.124
+Turnaround time: 2586.410s
+Waiting time: 2525.029s
+
+Process: 65
+Arrival Time: 204.402s
+Finish Time: 2783.808s
+Service Time: 55.087s
+I/O Time: 202.412
+Turnaround time: 2579.405s
+Waiting time: 2555.123s
+
+Process: 36
+Arrival Time: 107.719s
+Finish Time: 2804.428s
+Service Time: 51.175s
+I/O Time: 217.973
+Turnaround time: 2696.709s
+Waiting time: 2580.257s
+
+Process: 68
+Arrival Time: 215.736s
+Finish Time: 2806.022s
+Service Time: 53.814s
+I/O Time: 215.268
+Turnaround time: 2590.285s
+Waiting time: 2586.841s
+
+Process: 84
+Arrival Time: 260.009s
+Finish Time: 2819.282s
+Service Time: 50.289s
+I/O Time: 221.382
+Turnaround time: 2559.273s
+Waiting time: 2600.854s
+
+Process: 5
+Arrival Time: 30.145s
+Finish Time: 2824.746s
+Service Time: 51.997s
+I/O Time: 239.896
+Turnaround time: 2794.600s
+Waiting time: 2567.987s
+
+Process: 18
+Arrival Time: 66.540s
+Finish Time: 2836.346s
+Service Time: 47.802s
+I/O Time: 231.753
+Turnaround time: 2769.805s
+Waiting time: 2571.493s
+
+Process: 92
+Arrival Time: 280.550s
+Finish Time: 2842.456s
+Service Time: 48.864s
+I/O Time: 230.429
+Turnaround time: 2561.906s
+Waiting time: 2601.865s
+
+Process: 59
+Arrival Time: 189.554s
+Finish Time: 2855.069s
+Service Time: 55.991s
+I/O Time: 249.842
+Turnaround time: 2665.515s
+Waiting time: 2595.967s
+
+Process: 57
+Arrival Time: 186.445s
+Finish Time: 2856.416s
+Service Time: 49.669s
+I/O Time: 236.725
+Turnaround time: 2669.970s
+Waiting time: 2566.715s
+
+Process: 7
+Arrival Time: 35.861s
+Finish Time: 2863.834s
+Service Time: 56.312s
+I/O Time: 274.226
+Turnaround time: 2827.973s
+Waiting time: 2577.500s
+
+Process: 17
+Arrival Time: 60.656s
+Finish Time: 2865.528s
+Service Time: 58.426s
+I/O Time: 263.972
+Turnaround time: 2804.872s
+Waiting time: 2586.211s
+
+Process: 83
+Arrival Time: 257.472s
+Finish Time: 2906.167s
+Service Time: 50.743s
+I/O Time: 151.035
+Turnaround time: 2648.694s
+Waiting time: 2232.461s
+
+Process: 94
+Arrival Time: 286.524s
+Finish Time: 2920.816s
+Service Time: 58.278s
+I/O Time: 281.069
+Turnaround time: 2634.291s
+Waiting time: 2555.144s
+
+All processes finished...
+CPU Utilization: 97.995%
+Throughput: 0.034 jobs / s
+Average turnaround: 1666.525
+Average Waiting Time: 1704.249
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 2
+
+Input amount of processes
+Enter: 10
+
+Starting SJF Simulation...
+
+Process: 1
+Arrival Time: 67.513s
+Finish Time: 71.940s
+Service Time: 2.441s
+I/O Time: 1.810
+Turnaround time: 4.427s
+Waiting time: 67.668s
+
+Process: 4
+Arrival Time: 122.662s
+Finish Time: 169.357s
+Service Time: 9.879s
+I/O Time: 33.159
+Turnaround time: 46.695s
+Waiting time: 4.133s
+
+Process: 6
+Arrival Time: 159.342s
+Finish Time: 201.440s
+Service Time: 6.835s
+I/O Time: 33.309
+Turnaround time: 42.098s
+Waiting time: 163.157s
+
+Process: 0
+Arrival Time: 62.821s
+Finish Time: 209.493s
+Service Time: 26.037s
+I/O Time: 103.658
+Turnaround time: 146.673s
+Waiting time: 12.377s
+
+Process: 5
+Arrival Time: 155.402s
+Finish Time: 312.494s
+Service Time: 29.428s
+I/O Time: 122.007
+Turnaround time: 157.092s
+Waiting time: 12.070s
+
+Process: 2
+Arrival Time: 89.767s
+Finish Time: 383.754s
+Service Time: 53.681s
+I/O Time: 191.784
+Turnaround time: 293.988s
+Waiting time: 45.594s
+
+Process: 3
+Arrival Time: 113.308s
+Finish Time: 427.765s
+Service Time: 51.372s
+I/O Time: 205.342
+Turnaround time: 314.458s
+Waiting time: 38.506s
+
+Process: 7
+Arrival Time: 210.059s
+Finish Time: 479.241s
+Service Time: 45.815s
+I/O Time: 204.152
+Turnaround time: 269.182s
+Waiting time: 231.060s
+
+Process: 8
+Arrival Time: 210.069s
+Finish Time: 506.076s
+Service Time: 51.082s
+I/O Time: 237.911
+Turnaround time: 296.007s
+Waiting time: 241.132s
+
+Process: 9
+Arrival Time: 274.861s
+Finish Time: 551.507s
+Service Time: 43.452s
+I/O Time: 212.131
+Turnaround time: 276.647s
+Waiting time: 288.021s
+
+All processes finished...
+CPU Utilization: 58.046%
+Throughput: 0.018 jobs / s
+Average turnaround: 184.727
+Average Waiting Time: 110.372
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 2
+
+Input amount of processes
+Enter: 19 0
+
+Starting SJF Simulation...
+
+Process: 0
+Arrival Time: 8.861s
+Finish Time: 104.847s
+Service Time: 19.978s
+I/O Time: 66.446
+Turnaround time: 95.986s
+Waiting time: 13.068s
+
+Process: 4
+Arrival Time: 109.821s
+Finish Time: 175.977s
+Service Time: 27.735s
+I/O Time: 21.413
+Turnaround time: 66.156s
+Waiting time: 116.361s
+
+Process: 3
+Arrival Time: 91.308s
+Finish Time: 212.747s
+Service Time: 40.230s
+I/O Time: 49.007
+Turnaround time: 121.439s
+Waiting time: 107.559s
+
+Process: 1
+Arrival Time: 17.662s
+Finish Time: 294.205s
+Service Time: 50.885s
+I/O Time: 140.308
+Turnaround time: 276.543s
+Waiting time: 101.619s
+
+Process: 2
+Arrival Time: 26.069s
+Finish Time: 362.413s
+Service Time: 50.716s
+I/O Time: 201.504
+Turnaround time: 336.344s
+Waiting time: 114.479s
+
+Process: 8
+Arrival Time: 196.402s
+Finish Time: 403.900s
+Service Time: 25.892s
+I/O Time: 122.716
+Turnaround time: 207.498s
+Waiting time: 210.644s
+
+Process: 7
+Arrival Time: 183.342s
+Finish Time: 426.035s
+Service Time: 44.058s
+I/O Time: 159.318
+Turnaround time: 242.693s
+Waiting time: 204.801s
+
+Process: 5
+Arrival Time: 113.513s
+Finish Time: 484.058s
+Service Time: 57.158s
+I/O Time: 230.542
+Turnaround time: 370.545s
+Waiting time: 238.542s
+
+Process: 6
+Arrival Time: 134.767s
+Finish Time: 556.334s
+Service Time: 58.678s
+I/O Time: 265.567
+Turnaround time: 421.567s
+Waiting time: 270.266s
+
+Process: 9
+Arrival Time: 245.059s
+Finish Time: 577.653s
+Service Time: 50.884s
+I/O Time: 239.328
+Turnaround time: 332.594s
+Waiting time: 26.782s
+
+All processes finished...
+CPU Utilization: 73.801%
+Throughput: 0.017 jobs / s
+Average turnaround: 247.136
+Average Waiting Time: 140.412
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 2
+
+Input amount of processes
+Enter: 20
+
+Starting SJF Simulation...
+
+Process: 2
+Arrival Time: 35.402s
+Finish Time: 42.067s
+Service Time: 2.719s
+I/O Time: 2.699
+Turnaround time: 6.664s
+Waiting time: 36.809s
+
+Process: 4
+Arrival Time: 44.359s
+Finish Time: 96.626s
+Service Time: 23.302s
+I/O Time: 17.711
+Turnaround time: 52.267s
+Waiting time: 10.740s
+
+Process: 8
+Arrival Time: 166.303s
+Finish Time: 212.687s
+Service Time: 19.039s
+I/O Time: 17.347
+Turnaround time: 46.384s
+Waiting time: 170.615s
+
+Process: 13
+Arrival Time: 232.982s
+Finish Time: 241.746s
+Service Time: 3.601s
+I/O Time: 2.362
+Turnaround time: 8.764s
+Waiting time: 233.360s
+
+Process: 18
+Arrival Time: 264.869s
+Finish Time: 301.711s
+Service Time: 6.048s
+I/O Time: 24.519
+Turnaround time: 36.842s
+Waiting time: 274.051s
+
+Process: 0
+Arrival Time: 1.513s
+Finish Time: 316.032s
+Service Time: 35.412s
+I/O Time: 159.516
+Turnaround time: 314.519s
+Waiting time: 126.452s
+
+Process: 16
+Arrival Time: 255.767s
+Finish Time: 331.162s
+Service Time: 27.451s
+I/O Time: 16.556
+Turnaround time: 75.395s
+Waiting time: 259.631s
+
+Process: 6
+Arrival Time: 131.069s
+Finish Time: 397.668s
+Service Time: 35.581s
+I/O Time: 122.204
+Turnaround time: 266.599s
+Waiting time: 247.153s
+
+Process: 9
+Arrival Time: 194.342s
+Finish Time: 403.564s
+Service Time: 25.754s
+I/O Time: 128.903
+Turnaround time: 209.222s
+Waiting time: 240.776s
+
+Process: 11
+Arrival Time: 217.821s
+Finish Time: 474.333s
+Service Time: 38.797s
+I/O Time: 120.916
+Turnaround time: 256.512s
+Waiting time: 329.553s
+
+Process: 14
+Arrival Time: 242.832s
+Finish Time: 477.387s
+Service Time: 30.064s
+I/O Time: 150.166
+Turnaround time: 234.555s
+Waiting time: 298.200s
+
+Process: 17
+Arrival Time: 260.861s
+Finish Time: 502.752s
+Service Time: 31.403s
+I/O Time: 130.543
+Turnaround time: 241.891s
+Waiting time: 323.202s
+
+Process: 3
+Arrival Time: 36.308s
+Finish Time: 574.832s
+Service Time: 55.123s
+I/O Time: 32.758
+Turnaround time: 538.524s
+Waiting time: 461.123s
+
+Process: 5
+Arrival Time: 114.662s
+Finish Time: 601.218s
+Service Time: 49.225s
+I/O Time: 160.360
+Turnaround time: 486.556s
+Waiting time: 297.941s
+
+Process: 12
+Arrival Time: 226.507s
+Finish Time: 607.153s
+Service Time: 42.679s
+I/O Time: 176.769
+Turnaround time: 380.646s
+Waiting time: 394.465s
+
+Process: 15
+Arrival Time: 247.965s
+Finish Time: 657.921s
+Service Time: 50.632s
+I/O Time: 107.727
+Turnaround time: 409.956s
+Waiting time: 488.547s
+
+Process: 7
+Arrival Time: 148.059s
+Finish Time: 669.679s
+Service Time: 50.085s
+I/O Time: 173.325
+Turnaround time: 521.620s
+Waiting time: 479.246s
+
+Process: 19
+Arrival Time: 271.263s
+Finish Time: 695.131s
+Service Time: 45.165s
+I/O Time: 190.444
+Turnaround time: 423.868s
+Waiting time: 436.388s
+
+Process: 1
+Arrival Time: 21.333s
+Finish Time: 715.995s
+Service Time: 51.679s
+I/O Time: 174.942
+Turnaround time: 694.662s
+Waiting time: 511.923s
+
+Process: 10
+Arrival Time: 194.524s
+Finish Time: 883.510s
+Service Time: 57.051s
+I/O Time: 232.541
+Turnaround time: 688.986s
+Waiting time: 599.029s
+
+All processes finished...
+CPU Utilization: 77.093%
+Throughput: 0.023 jobs / s
+Average turnaround: 294.722
+Average Waiting Time: 310.960
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 2
+
+Input amount of processes
+Enter: 20
+
+Starting SJF Simulation...
+
+Process: 3
+Arrival Time: 62.342s
+Finish Time: 62.843s
+Service Time: 0.088s
+I/O Time: 0.273
+Turnaround time: 0.501s
+Waiting time: 62.378s
+
+Process: 4
+Arrival Time: 68.303s
+Finish Time: 76.149s
+Service Time: 1.999s
+I/O Time: 7.552
+Turnaround time: 7.846s
+Waiting time: 68.714s
+
+Process: 11
+Arrival Time: 194.869s
+Finish Time: 205.894s
+Service Time: 5.320s
+I/O Time: 3.607
+Turnaround time: 11.025s
+Waiting time: 196.351s
+
+Process: 8
+Arrival Time: 148.662s
+Finish Time: 210.902s
+Service Time: 21.183s
+I/O Time: 23.761
+Turnaround time: 62.240s
+Waiting time: 165.948s
+
+Process: 5
+Arrival Time: 84.308s
+Finish Time: 241.658s
+Service Time: 45.754s
+I/O Time: 23.941
+Turnaround time: 157.350s
+Waiting time: 136.677s
+
+Process: 2
+Arrival Time: 41.263s
+Finish Time: 250.647s
+Service Time: 25.848s
+I/O Time: 115.530
+Turnaround time: 209.384s
+Waiting time: 77.670s
+
+Process: 1
+Arrival Time: 31.513s
+Finish Time: 268.427s
+Service Time: 26.588s
+I/O Time: 115.964
+Turnaround time: 236.914s
+Waiting time: 128.140s
+
+Process: 7
+Arrival Time: 142.069s
+Finish Time: 273.396s
+Service Time: 17.751s
+I/O Time: 81.420
+Turnaround time: 131.327s
+Waiting time: 176.809s
+
+Process: 19
+Arrival Time: 278.767s
+Finish Time: 319.163s
+Service Time: 11.322s
+I/O Time: 23.853
+Turnaround time: 40.396s
+Waiting time: 283.922s
+
+Process: 12
+Arrival Time: 197.524s
+Finish Time: 334.141s
+Service Time: 21.555s
+I/O Time: 78.096
+Turnaround time: 136.617s
+Waiting time: 238.684s
+
+Process: 17
+Arrival Time: 262.333s
+Finish Time: 339.657s
+Service Time: 11.982s
+I/O Time: 52.932
+Turnaround time: 77.324s
+Waiting time: 279.167s
+
+Process: 13
+Arrival Time: 198.402s
+Finish Time: 359.722s
+Service Time: 23.592s
+I/O Time: 89.614
+Turnaround time: 161.320s
+Waiting time: 256.362s
+
+Process: 18
+Arrival Time: 277.059s
+Finish Time: 470.199s
+Service Time: 31.493s
+I/O Time: 99.858
+Turnaround time: 193.140s
+Waiting time: 325.623s
+
+Process: 16
+Arrival Time: 253.832s
+Finish Time: 508.314s
+Service Time: 35.016s
+I/O Time: 124.541
+Turnaround time: 254.482s
+Waiting time: 345.436s
+
+Process: 0
+Arrival Time: 22.861s
+Finish Time: 508.880s
+Service Time: 48.583s
+I/O Time: 193.766
+Turnaround time: 486.019s
+Waiting time: 264.724s
+
+Process: 9
+Arrival Time: 176.359s
+Finish Time: 545.249s
+Service Time: 36.415s
+I/O Time: 159.697
+Turnaround time: 368.891s
+Waiting time: 343.500s
+
+Process: 15
+Arrival Time: 237.982s
+Finish Time: 554.333s
+Service Time: 51.471s
+I/O Time: 70.364
+Turnaround time: 316.351s
+Waiting time: 401.063s
+
+Process: 6
+Arrival Time: 128.821s
+Finish Time: 672.613s
+Service Time: 49.436s
+I/O Time: 205.850
+Turnaround time: 543.793s
+Waiting time: 443.099s
+
+Process: 10
+Arrival Time: 180.965s
+Finish Time: 697.089s
+Service Time: 49.137s
+I/O Time: 237.005
+Turnaround time: 516.124s
+Waiting time: 423.943s
+
+Process: 14
+Arrival Time: 227.507s
+Finish Time: 741.532s
+Service Time: 52.062s
+I/O Time: 184.120
+Turnaround time: 514.026s
+Waiting time: 499.907s
+
+All processes finished...
+CPU Utilization: 76.439%
+Throughput: 0.027 jobs / s
+Average turnaround: 221.254
+Average Waiting Time: 255.906
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 2
+
+Input amount of processes
+Enter: 100
+
+Starting SJF Simulation...
+
+Process: 5
+Arrival Time: 10.988s
+Finish Time: 21.472s
+Service Time: 1.066s
+I/O Time: 5.874
+Turnaround time: 10.484s
+Waiting time: 14.177s
+
+Process: 6
+Arrival Time: 12.719s
+Finish Time: 39.000s
+Service Time: 10.399s
+I/O Time: 10.503
+Turnaround time: 26.282s
+Waiting time: 19.066s
+
+Process: 13
+Arrival Time: 37.069s
+Finish Time: 67.564s
+Service Time: 6.530s
+I/O Time: 16.545
+Turnaround time: 30.495s
+Waiting time: 44.024s
+
+Process: 17
+Arrival Time: 62.445s
+Finish Time: 77.379s
+Service Time: 4.539s
+I/O Time: 6.651
+Turnaround time: 14.934s
+Waiting time: 65.396s
+
+Process: 19
+Arrival Time: 63.973s
+Finish Time: 81.301s
+Service Time: 2.374s
+I/O Time: 10.561
+Turnaround time: 17.328s
+Waiting time: 67.624s
+
+Process: 23
+Arrival Time: 71.362s
+Finish Time: 90.175s
+Service Time: 6.495s
+I/O Time: 8.927
+Turnaround time: 18.814s
+Waiting time: 75.109s
+
+Process: 40
+Arrival Time: 123.263s
+Finish Time: 132.895s
+Service Time: 4.271s
+I/O Time: 3.694
+Turnaround time: 9.632s
+Waiting time: 124.310s
+
+Process: 45
+Arrival Time: 145.997s
+Finish Time: 155.172s
+Service Time: 2.143s
+I/O Time: 5.799
+Turnaround time: 9.175s
+Waiting time: 148.022s
+
+Process: 46
+Arrival Time: 146.069s
+Finish Time: 164.609s
+Service Time: 6.174s
+I/O Time: 4.171
+Turnaround time: 18.541s
+Waiting time: 147.113s
+
+Process: 34
+Arrival Time: 107.402s
+Finish Time: 169.253s
+Service Time: 16.893s
+I/O Time: 19.995
+Turnaround time: 61.851s
+Waiting time: 133.746s
+
+Process: 33
+Arrival Time: 105.143s
+Finish Time: 185.129s
+Service Time: 11.335s
+I/O Time: 40.268
+Turnaround time: 79.986s
+Waiting time: 131.953s
+
+Process: 48
+Arrival Time: 152.001s
+Finish Time: 190.626s
+Service Time: 5.024s
+I/O Time: 21.472
+Turnaround time: 38.625s
+Waiting time: 161.727s
+
+Process: 39
+Arrival Time: 121.039s
+Finish Time: 191.640s
+Service Time: 7.751s
+I/O Time: 40.123
+Turnaround time: 70.602s
+Waiting time: 145.083s
+
+Process: 60
+Arrival Time: 187.824s
+Finish Time: 219.134s
+Service Time: 4.052s
+I/O Time: 18.888
+Turnaround time: 31.310s
+Waiting time: 195.068s
+
+Process: 75
+Arrival Time: 243.869s
+Finish Time: 244.202s
+Service Time: 0.137s
+I/O Time: 0.079
+Turnaround time: 0.333s
+Waiting time: 243.981s
+
+Process: 80
+Arrival Time: 250.476s
+Finish Time: 261.623s
+Service Time: 5.917s
+I/O Time: 3.268
+Turnaround time: 11.148s
+Waiting time: 252.043s
+
+Process: 70
+Arrival Time: 229.100s
+Finish Time: 263.604s
+Service Time: 9.148s
+I/O Time: 9.265
+Turnaround time: 34.504s
+Waiting time: 243.048s
+
+Process: 81
+Arrival Time: 250.554s
+Finish Time: 271.374s
+Service Time: 8.775s
+I/O Time: 6.210
+Turnaround time: 20.820s
+Waiting time: 256.478s
+
+Process: 88
+Arrival Time: 263.873s
+Finish Time: 285.412s
+Service Time: 7.808s
+I/O Time: 8.619
+Turnaround time: 21.540s
+Waiting time: 268.561s
+
+Process: 84
+Arrival Time: 256.261s
+Finish Time: 291.407s
+Service Time: 10.322s
+I/O Time: 8.785
+Turnaround time: 35.147s
+Waiting time: 271.737s
+
+Process: 74
+Arrival Time: 243.767s
+Finish Time: 306.887s
+Service Time: 14.221s
+I/O Time: 12.692
+Turnaround time: 63.120s
+Waiting time: 276.647s
+
+Process: 65
+Arrival Time: 213.059s
+Finish Time: 309.265s
+Service Time: 16.371s
+I/O Time: 19.836
+Turnaround time: 96.206s
+Waiting time: 276.572s
+
+Process: 49
+Arrival Time: 152.250s
+Finish Time: 326.917s
+Service Time: 16.205s
+I/O Time: 70.339
+Turnaround time: 174.668s
+Waiting time: 245.308s
+
+Process: 43
+Arrival Time: 141.795s
+Finish Time: 339.790s
+Service Time: 16.285s
+I/O Time: 70.611
+Turnaround time: 197.995s
+Waiting time: 256.643s
+
+Process: 91
+Arrival Time: 278.936s
+Finish Time: 365.501s
+Service Time: 11.405s
+I/O Time: 51.577
+Turnaround time: 86.566s
+Waiting time: 303.315s
+
+Process: 52
+Arrival Time: 156.147s
+Finish Time: 365.631s
+Service Time: 18.336s
+I/O Time: 24.631
+Turnaround time: 209.484s
+Waiting time: 318.386s
+
+Process: 68
+Arrival Time: 222.109s
+Finish Time: 367.666s
+Service Time: 18.166s
+I/O Time: 19.087
+Turnaround time: 145.557s
+Waiting time: 331.336s
+
+Process: 44
+Arrival Time: 143.736s
+Finish Time: 379.833s
+Service Time: 18.477s
+I/O Time: 17.184
+Turnaround time: 236.097s
+Waiting time: 342.974s
+
+Process: 89
+Arrival Time: 275.769s
+Finish Time: 391.342s
+Service Time: 16.821s
+I/O Time: 37.939
+Turnaround time: 115.573s
+Waiting time: 337.494s
+
+Process: 77
+Arrival Time: 248.831s
+Finish Time: 412.608s
+Service Time: 16.627s
+I/O Time: 60.836
+Turnaround time: 163.778s
+Waiting time: 335.921s
+
+Process: 56
+Arrival Time: 169.829s
+Finish Time: 416.976s
+Service Time: 19.284s
+I/O Time: 23.096
+Turnaround time: 247.148s
+Waiting time: 375.484s
+
+Process: 36
+Arrival Time: 112.767s
+Finish Time: 444.748s
+Service Time: 19.724s
+I/O Time: 42.580
+Turnaround time: 331.982s
+Waiting time: 388.794s
+
+Process: 87
+Arrival Time: 259.965s
+Finish Time: 477.025s
+Service Time: 20.343s
+I/O Time: 17.807
+Turnaround time: 217.060s
+Waiting time: 421.760s
+
+Process: 16
+Arrival Time: 54.121s
+Finish Time: 499.843s
+Service Time: 21.093s
+I/O Time: 63.650
+Turnaround time: 445.722s
+Waiting time: 415.907s
+
+Process: 86
+Arrival Time: 258.259s
+Finish Time: 509.551s
+Service Time: 20.185s
+I/O Time: 56.446
+Turnaround time: 251.292s
+Waiting time: 432.966s
+
+Process: 21
+Arrival Time: 70.613s
+Finish Time: 515.641s
+Service Time: 22.151s
+I/O Time: 33.380
+Turnaround time: 445.029s
+Waiting time: 465.247s
+
+Process: 98
+Arrival Time: 296.662s
+Finish Time: 520.501s
+Service Time: 19.600s
+I/O Time: 86.140
+Turnaround time: 223.840s
+Waiting time: 413.595s
+
+Process: 18
+Arrival Time: 62.955s
+Finish Time: 580.810s
+Service Time: 22.609s
+I/O Time: 57.766
+Turnaround time: 517.855s
+Waiting time: 497.606s
+
+Process: 12
+Arrival Time: 33.545s
+Finish Time: 581.403s
+Service Time: 25.352s
+I/O Time: 47.713
+Turnaround time: 547.858s
+Waiting time: 515.427s
+
+Process: 22
+Arrival Time: 71.145s
+Finish Time: 594.769s
+Service Time: 21.271s
+I/O Time: 101.499
+Turnaround time: 523.624s
+Waiting time: 464.874s
+
+Process: 1
+Arrival Time: 1.307s
+Finish Time: 602.335s
+Service Time: 25.899s
+I/O Time: 39.433
+Turnaround time: 601.028s
+Waiting time: 541.969s
+
+Process: 66
+Arrival Time: 215.683s
+Finish Time: 615.650s
+Service Time: 21.395s
+I/O Time: 93.040
+Turnaround time: 399.967s
+Waiting time: 499.836s
+
+Process: 37
+Arrival Time: 113.377s
+Finish Time: 667.457s
+Service Time: 23.522s
+I/O Time: 99.094
+Turnaround time: 554.081s
+Waiting time: 550.522s
+
+Process: 15
+Arrival Time: 46.532s
+Finish Time: 687.395s
+Service Time: 27.517s
+I/O Time: 56.789
+Turnaround time: 640.863s
+Waiting time: 603.452s
+
+Process: 42
+Arrival Time: 137.523s
+Finish Time: 699.086s
+Service Time: 25.617s
+I/O Time: 90.229
+Turnaround time: 561.563s
+Waiting time: 577.940s
+
+Process: 55
+Arrival Time: 164.605s
+Finish Time: 794.310s
+Service Time: 33.507s
+I/O Time: 52.678
+Turnaround time: 629.706s
+Waiting time: 715.400s
+
+Process: 92
+Arrival Time: 283.525s
+Finish Time: 797.727s
+Service Time: 28.132s
+I/O Time: 116.617
+Turnaround time: 514.203s
+Waiting time: 653.794s
+
+Process: 57
+Arrival Time: 176.054s
+Finish Time: 819.775s
+Service Time: 33.725s
+I/O Time: 37.127
+Turnaround time: 643.722s
+Waiting time: 736.581s
+
+Process: 50
+Arrival Time: 153.107s
+Finish Time: 841.471s
+Service Time: 29.312s
+I/O Time: 126.715
+Turnaround time: 688.365s
+Waiting time: 680.613s
+
+Process: 26
+Arrival Time: 75.472s
+Finish Time: 882.882s
+Service Time: 30.324s
+I/O Time: 142.725
+Turnaround time: 807.410s
+Waiting time: 716.232s
+
+Process: 63
+Arrival Time: 203.429s
+Finish Time: 915.481s
+Service Time: 32.730s
+I/O Time: 145.707
+Turnaround time: 712.052s
+Waiting time: 740.825s
+
+Process: 38
+Arrival Time: 114.684s
+Finish Time: 935.033s
+Service Time: 34.517s
+I/O Time: 83.517
+Turnaround time: 820.349s
+Waiting time: 818.892s
+
+Process: 94
+Arrival Time: 287.550s
+Finish Time: 995.675s
+Service Time: 34.918s
+I/O Time: 59.267
+Turnaround time: 708.126s
+Waiting time: 881.128s
+
+Process: 69
+Arrival Time: 226.539s
+Finish Time: 1020.378s
+Service Time: 34.623s
+I/O Time: 115.372
+Turnaround time: 793.840s
+Waiting time: 884.012s
+
+Process: 93
+Arrival Time: 287.054s
+Finish Time: 1026.823s
+Service Time: 34.539s
+I/O Time: 135.183
+Turnaround time: 739.770s
+Waiting time: 867.912s
+
+Process: 24
+Arrival Time: 71.656s
+Finish Time: 1180.410s
+Service Time: 36.614s
+I/O Time: 167.759
+Turnaround time: 1108.754s
+Waiting time: 979.847s
+
+Process: 32
+Arrival Time: 102.638s
+Finish Time: 1183.292s
+Service Time: 35.598s
+I/O Time: 181.853
+Turnaround time: 1080.654s
+Waiting time: 952.874s
+
+Process: 53
+Arrival Time: 162.731s
+Finish Time: 1189.157s
+Service Time: 37.139s
+I/O Time: 155.826
+Turnaround time: 1026.427s
+Waiting time: 996.537s
+
+Process: 27
+Arrival Time: 79.032s
+Finish Time: 1244.887s
+Service Time: 37.483s
+I/O Time: 158.401
+Turnaround time: 1165.856s
+Waiting time: 1036.238s
+
+Process: 47
+Arrival Time: 148.882s
+Finish Time: 1252.360s
+Service Time: 38.232s
+I/O Time: 138.013
+Turnaround time: 1103.478s
+Waiting time: 1101.131s
+
+Process: 54
+Arrival Time: 162.929s
+Finish Time: 1260.553s
+Service Time: 37.729s
+I/O Time: 162.117
+Turnaround time: 1097.625s
+Waiting time: 1068.840s
+
+Process: 20
+Arrival Time: 65.692s
+Finish Time: 1336.750s
+Service Time: 39.272s
+I/O Time: 125.651
+Turnaround time: 1271.058s
+Waiting time: 1163.860s
+
+Process: 95
+Arrival Time: 288.303s
+Finish Time: 1364.658s
+Service Time: 38.414s
+I/O Time: 174.620
+Turnaround time: 1076.355s
+Waiting time: 1153.511s
+
+Process: 31
+Arrival Time: 89.828s
+Finish Time: 1502.995s
+Service Time: 39.420s
+I/O Time: 189.003
+Turnaround time: 1413.168s
+Waiting time: 1247.179s
+
+Process: 62
+Arrival Time: 195.265s
+Finish Time: 1515.610s
+Service Time: 39.581s
+I/O Time: 184.520
+Turnaround time: 1320.345s
+Waiting time: 1278.357s
+
+Process: 83
+Arrival Time: 254.533s
+Finish Time: 1545.349s
+Service Time: 43.106s
+I/O Time: 28.624
+Turnaround time: 1290.816s
+Waiting time: 1449.809s
+
+Process: 58
+Arrival Time: 180.896s
+Finish Time: 1552.214s
+Service Time: 40.685s
+I/O Time: 188.965
+Turnaround time: 1371.319s
+Waiting time: 1320.096s
+
+Process: 10
+Arrival Time: 25.184s
+Finish Time: 1577.929s
+Service Time: 41.485s
+I/O Time: 187.122
+Turnaround time: 1552.746s
+Waiting time: 1366.702s
+
+Process: 59
+Arrival Time: 181.342s
+Finish Time: 1633.281s
+Service Time: 41.630s
+I/O Time: 191.740
+Turnaround time: 1451.939s
+Waiting time: 1423.131s
+
+Process: 73
+Arrival Time: 243.656s
+Finish Time: 1636.454s
+Service Time: 41.947s
+I/O Time: 155.191
+Turnaround time: 1392.799s
+Waiting time: 1445.473s
+
+Process: 8
+Arrival Time: 22.540s
+Finish Time: 1697.334s
+Service Time: 44.939s
+I/O Time: 56.339
+Turnaround time: 1674.794s
+Waiting time: 1586.701s
+
+Process: 4
+Arrival Time: 8.308s
+Finish Time: 1769.403s
+Service Time: 43.108s
+I/O Time: 132.896
+Turnaround time: 1761.096s
+Waiting time: 1589.607s
+
+Process: 96
+Arrival Time: 288.821s
+Finish Time: 1779.130s
+Service Time: 42.676s
+I/O Time: 197.252
+Turnaround time: 1490.310s
+Waiting time: 1544.719s
+
+Process: 14
+Arrival Time: 44.466s
+Finish Time: 1912.714s
+Service Time: 45.460s
+I/O Time: 178.334
+Turnaround time: 1868.248s
+Waiting time: 1693.890s
+
+Process: 9
+Arrival Time: 23.494s
+Finish Time: 1948.253s
+Service Time: 49.273s
+I/O Time: 40.730
+Turnaround time: 1924.759s
+Waiting time: 1799.922s
+
+Process: 0
+Arrival Time: 1.015s
+Finish Time: 1969.762s
+Service Time: 47.648s
+I/O Time: 150.657
+Turnaround time: 1968.747s
+Waiting time: 1783.381s
+
+Process: 29
+Arrival Time: 86.451s
+Finish Time: 1999.350s
+Service Time: 45.584s
+I/O Time: 218.511
+Turnaround time: 1912.900s
+Waiting time: 1750.282s
+
+Process: 76
+Arrival Time: 248.359s
+Finish Time: 2036.563s
+Service Time: 46.494s
+I/O Time: 209.930
+Turnaround time: 1788.205s
+Waiting time: 1787.979s
+
+Process: 82
+Arrival Time: 254.251s
+Finish Time: 2056.995s
+Service Time: 48.116s
+I/O Time: 169.876
+Turnaround time: 1802.745s
+Waiting time: 1854.776s
+
+Process: 78
+Arrival Time: 249.472s
+Finish Time: 2187.953s
+Service Time: 52.288s
+I/O Time: 86.347
+Turnaround time: 1938.481s
+Waiting time: 2040.484s
+
+Process: 61
+Arrival Time: 189.999s
+Finish Time: 2199.310s
+Service Time: 49.499s
+I/O Time: 206.160
+Turnaround time: 2009.312s
+Waiting time: 1953.826s
+
+Process: 30
+Arrival Time: 86.507s
+Finish Time: 2281.221s
+Service Time: 49.789s
+I/O Time: 220.198
+Turnaround time: 2194.715s
+Waiting time: 2005.936s
+
+Process: 79
+Arrival Time: 249.911s
+Finish Time: 2317.287s
+Service Time: 51.574s
+I/O Time: 233.437
+Turnaround time: 2067.377s
+Waiting time: 2044.665s
+
+Process: 72
+Arrival Time: 235.059s
+Finish Time: 2384.464s
+Service Time: 51.908s
+I/O Time: 238.478
+Turnaround time: 2149.405s
+Waiting time: 2084.735s
+
+Process: 41
+Arrival Time: 126.497s
+Finish Time: 2388.589s
+Service Time: 53.318s
+I/O Time: 185.052
+Turnaround time: 2262.093s
+Waiting time: 2143.320s
+
+Process: 3
+Arrival Time: 3.832s
+Finish Time: 2531.392s
+Service Time: 53.829s
+I/O Time: 241.898
+Turnaround time: 2527.560s
+Waiting time: 2237.054s
+
+Process: 64
+Arrival Time: 209.982s
+Finish Time: 2605.560s
+Service Time: 54.237s
+I/O Time: 253.252
+Turnaround time: 2395.578s
+Waiting time: 2290.142s
+
+Process: 51
+Arrival Time: 154.768s
+Finish Time: 2629.870s
+Service Time: 55.214s
+I/O Time: 241.816
+Turnaround time: 2475.102s
+Waiting time: 2336.175s
+
+Process: 97
+Arrival Time: 291.066s
+Finish Time: 2695.589s
+Service Time: 57.083s
+I/O Time: 117.068
+Turnaround time: 2404.523s
+Waiting time: 2542.049s
+
+Process: 25
+Arrival Time: 72.861s
+Finish Time: 2701.505s
+Service Time: 55.956s
+I/O Time: 203.090
+Turnaround time: 2628.645s
+Waiting time: 2450.137s
+
+Process: 28
+Arrival Time: 83.835s
+Finish Time: 2706.084s
+Service Time: 55.243s
+I/O Time: 242.197
+Turnaround time: 2622.249s
+Waiting time: 2416.543s
+
+Process: 71
+Arrival Time: 229.513s
+Finish Time: 2820.783s
+Service Time: 57.141s
+I/O Time: 127.793
+Turnaround time: 2591.271s
+Waiting time: 2621.314s
+
+Process: 11
+Arrival Time: 29.809s
+Finish Time: 2902.365s
+Service Time: 56.290s
+I/O Time: 272.152
+Turnaround time: 2872.556s
+Waiting time: 2577.901s
+
+Process: 35
+Arrival Time: 109.009s
+Finish Time: 2934.706s
+Service Time: 57.334s
+I/O Time: 158.451
+Turnaround time: 2825.697s
+Waiting time: 2712.062s
+
+Process: 2
+Arrival Time: 1.357s
+Finish Time: 3011.644s
+Service Time: 59.267s
+I/O Time: 101.758
+Turnaround time: 3010.288s
+Waiting time: 2853.143s
+
+Process: 7
+Arrival Time: 18.178s
+Finish Time: 3065.647s
+Service Time: 59.237s
+I/O Time: 168.168
+Turnaround time: 3047.469s
+Waiting time: 2820.204s
+
+Process: 85
+Arrival Time: 257.973s
+Finish Time: 3104.185s
+Service Time: 57.947s
+I/O Time: 259.300
+Turnaround time: 2846.212s
+Waiting time: 2802.114s
+
+Process: 90
+Arrival Time: 278.333s
+Finish Time: 3117.896s
+Service Time: 58.727s
+I/O Time: 258.363
+Turnaround time: 2839.563s
+Waiting time: 2826.927s
+
+Process: 67
+Arrival Time: 220.524s
+Finish Time: 3197.842s
+Service Time: 59.652s
+I/O Time: 165.142
+Turnaround time: 2977.318s
+Waiting time: 2944.143s
+
+Process: 99
+Arrival Time: 298.134s
+Finish Time: 3272.026s
+Service Time: 59.298s
+I/O Time: 273.592
+Turnaround time: 2973.893s
+Waiting time: 2959.485s
+
+All processes finished...
+CPU Utilization: 95.466%
+Throughput: 0.031 jobs / s
+Average turnaround: 1041.915
+Average Waiting Time: 1059.309
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 2
+
+Input amount of processes
+Enter: 100
+
+Starting SJF Simulation...
+
+Process: 2
+Arrival Time: 18.882s
+Finish Time: 26.603s
+Service Time: 1.741s
+I/O Time: 7.945
+Turnaround time: 7.721s
+Waiting time: 0.801s
+
+Process: 8
+Arrival Time: 30.982s
+Finish Time: 36.553s
+Service Time: 2.670s
+I/O Time: 1.776
+Turnaround time: 5.571s
+Waiting time: 31.460s
+
+Process: 7
+Arrival Time: 29.873s
+Finish Time: 37.941s
+Service Time: 2.981s
+I/O Time: 2.960
+Turnaround time: 8.068s
+Waiting time: 32.204s
+
+Process: 22
+Arrival Time: 72.638s
+Finish Time: 77.789s
+Service Time: 0.719s
+I/O Time: 3.320
+Turnaround time: 5.151s
+Waiting time: 73.930s
+
+Process: 24
+Arrival Time: 74.466s
+Finish Time: 105.272s
+Service Time: 5.260s
+I/O Time: 19.615
+Turnaround time: 30.806s
+Waiting time: 81.456s
+
+Process: 1
+Arrival Time: 14.835s
+Finish Time: 114.780s
+Service Time: 11.822s
+I/O Time: 59.129
+Turnaround time: 99.945s
+Waiting time: 30.138s
+
+Process: 32
+Arrival Time: 124.795s
+Finish Time: 152.295s
+Service Time: 6.318s
+I/O Time: 14.728
+Turnaround time: 27.500s
+Waiting time: 131.073s
+
+Process: 47
+Arrival Time: 161.554s
+Finish Time: 167.872s
+Service Time: 2.190s
+I/O Time: 3.067
+Turnaround time: 6.318s
+Waiting time: 163.384s
+
+Process: 40
+Arrival Time: 143.973s
+Finish Time: 170.349s
+Service Time: 11.792s
+I/O Time: 6.788
+Turnaround time: 26.376s
+Waiting time: 146.078s
+
+Process: 0
+Arrival Time: 3.824s
+Finish Time: 180.056s
+Service Time: 19.045s
+I/O Time: 88.074
+Turnaround time: 176.232s
+Waiting time: 74.093s
+
+Process: 52
+Arrival Time: 173.767s
+Finish Time: 198.768s
+Service Time: 9.071s
+I/O Time: 9.342
+Turnaround time: 25.001s
+Waiting time: 175.868s
+
+Process: 23
+Arrival Time: 74.178s
+Finish Time: 205.786s
+Service Time: 15.040s
+I/O Time: 70.782
+Turnaround time: 131.608s
+Waiting time: 123.004s
+
+Process: 64
+Arrival Time: 199.059s
+Finish Time: 209.724s
+Service Time: 3.551s
+I/O Time: 5.639
+Turnaround time: 10.665s
+Waiting time: 200.219s
+
+Process: 59
+Arrival Time: 182.999s
+Finish Time: 211.089s
+Service Time: 4.039s
+I/O Time: 17.320
+Turnaround time: 28.090s
+Waiting time: 188.921s
+
+Process: 73
+Arrival Time: 219.472s
+Finish Time: 220.348s
+Service Time: 0.426s
+I/O Time: 0.253
+Turnaround time: 0.876s
+Waiting time: 219.697s
+
+Process: 71
+Arrival Time: 214.768s
+Finish Time: 248.969s
+Service Time: 12.065s
+I/O Time: 11.904
+Turnaround time: 34.201s
+Waiting time: 225.942s
+
+Process: 75
+Arrival Time: 221.494s
+Finish Time: 249.895s
+Service Time: 3.310s
+I/O Time: 16.087
+Turnaround time: 28.401s
+Waiting time: 230.057s
+
+Process: 68
+Arrival Time: 208.831s
+Finish Time: 250.097s
+Service Time: 12.306s
+I/O Time: 9.732
+Turnaround time: 41.266s
+Waiting time: 221.474s
+
+Process: 81
+Arrival Time: 239.809s
+Finish Time: 258.312s
+Service Time: 8.218s
+I/O Time: 6.563
+Turnaround time: 18.503s
+Waiting time: 243.816s
+
+Process: 72
+Arrival Time: 216.550s
+Finish Time: 277.817s
+Service Time: 13.791s
+I/O Time: 11.713
+Turnaround time: 61.267s
+Waiting time: 251.664s
+
+Process: 87
+Arrival Time: 266.973s
+Finish Time: 299.145s
+Service Time: 11.835s
+I/O Time: 13.451
+Turnaround time: 32.172s
+Waiting time: 273.986s
+
+Process: 94
+Arrival Time: 285.821s
+Finish Time: 308.229s
+Service Time: 7.478s
+I/O Time: 9.491
+Turnaround time: 22.408s
+Waiting time: 290.132s
+
+Process: 76
+Arrival Time: 226.719s
+Finish Time: 314.399s
+Service Time: 15.369s
+I/O Time: 15.244
+Turnaround time: 87.680s
+Waiting time: 282.518s
+
+Process: 91
+Arrival Time: 276.009s
+Finish Time: 324.414s
+Service Time: 15.163s
+I/O Time: 16.251
+Turnaround time: 48.405s
+Waiting time: 289.244s
+
+Process: 58
+Arrival Time: 182.069s
+Finish Time: 378.032s
+Service Time: 15.687s
+I/O Time: 64.606
+Turnaround time: 195.963s
+Waiting time: 303.336s
+
+Process: 43
+Arrival Time: 147.265s
+Finish Time: 383.622s
+Service Time: 17.964s
+I/O Time: 68.512
+Turnaround time: 236.357s
+Waiting time: 294.400s
+
+Process: 84
+Arrival Time: 257.109s
+Finish Time: 399.324s
+Service Time: 20.689s
+I/O Time: 26.466
+Turnaround time: 142.215s
+Waiting time: 355.761s
+
+Process: 89
+Arrival Time: 272.342s
+Finish Time: 410.482s
+Service Time: 18.559s
+I/O Time: 55.439
+Turnaround time: 138.140s
+Waiting time: 346.862s
+
+Process: 86
+Arrival Time: 266.656s
+Finish Time: 444.372s
+Service Time: 21.138s
+I/O Time: 32.123
+Turnaround time: 177.716s
+Waiting time: 387.578s
+
+Process: 85
+Arrival Time: 258.525s
+Finish Time: 452.181s
+Service Time: 18.370s
+I/O Time: 91.464
+Turnaround time: 193.656s
+Waiting time: 349.628s
+
+Process: 48
+Arrival Time: 162.059s
+Finish Time: 472.720s
+Service Time: 21.701s
+I/O Time: 61.511
+Turnaround time: 310.660s
+Waiting time: 395.499s
+
+Process: 67
+Arrival Time: 208.054s
+Finish Time: 490.949s
+Service Time: 18.592s
+I/O Time: 85.220
+Turnaround time: 282.895s
+Waiting time: 370.112s
+
+Process: 78
+Arrival Time: 233.736s
+Finish Time: 536.031s
+Service Time: 23.705s
+I/O Time: 24.852
+Turnaround time: 302.294s
+Waiting time: 480.144s
+
+Process: 28
+Arrival Time: 109.362s
+Finish Time: 550.399s
+Service Time: 23.085s
+I/O Time: 86.677
+Turnaround time: 441.037s
+Waiting time: 456.744s
+
+Process: 34
+Arrival Time: 129.429s
+Finish Time: 563.891s
+Service Time: 24.119s
+I/O Time: 23.357
+Turnaround time: 434.462s
+Waiting time: 508.952s
+
+Process: 41
+Arrival Time: 144.308s
+Finish Time: 573.808s
+Service Time: 23.412s
+I/O Time: 66.754
+Turnaround time: 429.500s
+Waiting time: 495.608s
+
+Process: 46
+Arrival Time: 158.250s
+Finish Time: 580.654s
+Service Time: 22.624s
+I/O Time: 93.597
+Turnaround time: 422.404s
+Waiting time: 462.842s
+
+Process: 17
+Arrival Time: 56.263s
+Finish Time: 593.685s
+Service Time: 24.402s
+I/O Time: 49.002
+Turnaround time: 537.422s
+Waiting time: 515.016s
+
+Process: 53
+Arrival Time: 179.451s
+Finish Time: 595.676s
+Service Time: 22.359s
+I/O Time: 116.600
+Turnaround time: 416.225s
+Waiting time: 455.084s
+
+Process: 13
+Arrival Time: 45.524s
+Finish Time: 599.208s
+Service Time: 27.805s
+I/O Time: 18.677
+Turnaround time: 553.684s
+Waiting time: 540.218s
+
+Process: 95
+Arrival Time: 286.532s
+Finish Time: 682.862s
+Service Time: 28.107s
+I/O Time: 21.435
+Turnaround time: 396.330s
+Waiting time: 627.703s
+
+Process: 42
+Arrival Time: 145.929s
+Finish Time: 703.811s
+Service Time: 26.468s
+I/O Time: 83.247
+Turnaround time: 557.882s
+Waiting time: 595.452s
+
+Process: 30
+Arrival Time: 118.032s
+Finish Time: 752.006s
+Service Time: 28.427s
+I/O Time: 35.012
+Turnaround time: 633.974s
+Waiting time: 695.920s
+
+Process: 14
+Arrival Time: 55.066s
+Finish Time: 757.380s
+Service Time: 27.170s
+I/O Time: 120.390
+Turnaround time: 702.314s
+Waiting time: 613.928s
+
+Process: 82
+Arrival Time: 253.357s
+Finish Time: 766.076s
+Service Time: 27.860s
+I/O Time: 80.104
+Turnaround time: 512.719s
+Waiting time: 666.980s
+
+Process: 69
+Arrival Time: 211.100s
+Finish Time: 797.099s
+Service Time: 29.220s
+I/O Time: 39.299
+Turnaround time: 585.999s
+Waiting time: 718.782s
+
+Process: 51
+Arrival Time: 173.613s
+Finish Time: 802.013s
+Service Time: 27.734s
+I/O Time: 118.670
+Turnaround time: 628.400s
+Waiting time: 657.583s
+
+Process: 25
+Arrival Time: 82.134s
+Finish Time: 918.529s
+Service Time: 33.471s
+I/O Time: 30.181
+Turnaround time: 836.395s
+Waiting time: 842.886s
+
+Process: 65
+Arrival Time: 204.307s
+Finish Time: 940.505s
+Service Time: 29.966s
+I/O Time: 91.261
+Turnaround time: 736.198s
+Waiting time: 824.753s
+
+Process: 88
+Arrival Time: 270.540s
+Finish Time: 963.181s
+Service Time: 29.634s
+I/O Time: 123.958
+Turnaround time: 692.641s
+Waiting time: 802.245s
+
+Process: 98
+Arrival Time: 293.402s
+Finish Time: 990.735s
+Service Time: 29.667s
+I/O Time: 130.126
+Turnaround time: 697.333s
+Waiting time: 831.239s
+
+Process: 39
+Arrival Time: 143.656s
+Finish Time: 991.780s
+Service Time: 30.689s
+I/O Time: 105.851
+Turnaround time: 848.124s
+Waiting time: 865.241s
+
+Process: 99
+Arrival Time: 293.988s
+Finish Time: 1003.245s
+Service Time: 33.970s
+I/O Time: 27.640
+Turnaround time: 709.257s
+Waiting time: 925.711s
+
+Process: 15
+Arrival Time: 55.143s
+Finish Time: 1023.423s
+Service Time: 30.880s
+I/O Time: 105.044
+Turnaround time: 968.280s
+Waiting time: 901.574s
+
+Process: 6
+Arrival Time: 29.184s
+Finish Time: 1073.994s
+Service Time: 35.188s
+I/O Time: 31.135
+Turnaround time: 1044.810s
+Waiting time: 997.844s
+
+Process: 55
+Arrival Time: 179.829s
+Finish Time: 1174.528s
+Service Time: 33.657s
+I/O Time: 158.094
+Turnaround time: 994.699s
+Waiting time: 982.530s
+
+Process: 50
+Arrival Time: 173.303s
+Finish Time: 1180.793s
+Service Time: 34.829s
+I/O Time: 117.057
+Turnaround time: 1007.490s
+Waiting time: 1030.486s
+
+Process: 92
+Arrival Time: 277.911s
+Finish Time: 1258.110s
+Service Time: 37.271s
+I/O Time: 115.223
+Turnaround time: 980.199s
+Waiting time: 1101.050s
+
+Process: 56
+Arrival Time: 180.472s
+Finish Time: 1263.749s
+Service Time: 38.366s
+I/O Time: 30.236
+Turnaround time: 1083.277s
+Waiting time: 1186.520s
+
+Process: 20
+Arrival Time: 63.359s
+Finish Time: 1304.455s
+Service Time: 36.493s
+I/O Time: 170.644
+Turnaround time: 1241.096s
+Waiting time: 1101.364s
+
+Process: 70
+Arrival Time: 214.001s
+Finish Time: 1335.940s
+Service Time: 37.311s
+I/O Time: 161.956
+Turnaround time: 1121.939s
+Waiting time: 1162.135s
+
+Process: 83
+Arrival Time: 255.333s
+Finish Time: 1379.275s
+Service Time: 38.135s
+I/O Time: 130.267
+Turnaround time: 1123.942s
+Waiting time: 1204.125s
+
+Process: 79
+Arrival Time: 234.261s
+Finish Time: 1396.370s
+Service Time: 37.856s
+I/O Time: 176.809
+Turnaround time: 1162.109s
+Waiting time: 1191.163s
+
+Process: 44
+Arrival Time: 151.523s
+Finish Time: 1447.190s
+Service Time: 38.945s
+I/O Time: 103.884
+Turnaround time: 1295.667s
+Waiting time: 1270.710s
+
+Process: 35
+Arrival Time: 130.965s
+Finish Time: 1528.932s
+Service Time: 40.758s
+I/O Time: 189.033
+Turnaround time: 1397.967s
+Waiting time: 1337.767s
+
+Process: 27
+Arrival Time: 97.683s
+Finish Time: 1558.315s
+Service Time: 40.759s
+I/O Time: 169.940
+Turnaround time: 1460.632s
+Waiting time: 1354.552s
+
+Process: 36
+Arrival Time: 131.107s
+Finish Time: 1607.380s
+Service Time: 40.789s
+I/O Time: 165.719
+Turnaround time: 1476.273s
+Waiting time: 1386.299s
+
+Process: 61
+Arrival Time: 195.039s
+Finish Time: 1622.303s
+Service Time: 41.723s
+I/O Time: 126.496
+Turnaround time: 1427.264s
+Waiting time: 1432.122s
+
+Process: 5
+Arrival Time: 28.955s
+Finish Time: 1661.183s
+Service Time: 41.180s
+I/O Time: 194.475
+Turnaround time: 1632.228s
+Waiting time: 1433.122s
+
+Process: 45
+Arrival Time: 154.684s
+Finish Time: 1738.883s
+Service Time: 41.758s
+I/O Time: 189.855
+Turnaround time: 1584.199s
+Waiting time: 1511.341s
+
+Process: 18
+Arrival Time: 58.121s
+Finish Time: 1787.484s
+Service Time: 42.564s
+I/O Time: 188.241
+Turnaround time: 1729.363s
+Waiting time: 1562.767s
+
+Process: 54
+Arrival Time: 179.533s
+Finish Time: 1821.855s
+Service Time: 43.337s
+I/O Time: 138.646
+Turnaround time: 1642.322s
+Waiting time: 1625.206s
+
+Process: 38
+Arrival Time: 143.015s
+Finish Time: 1854.220s
+Service Time: 42.874s
+I/O Time: 200.376
+Turnaround time: 1711.205s
+Waiting time: 1624.415s
+
+Process: 57
+Arrival Time: 181.662s
+Finish Time: 1877.418s
+Service Time: 45.057s
+I/O Time: 120.845
+Turnaround time: 1695.756s
+Waiting time: 1714.807s
+
+Process: 74
+Arrival Time: 220.476s
+Finish Time: 2002.643s
+Service Time: 45.433s
+I/O Time: 167.541
+Turnaround time: 1782.167s
+Waiting time: 1795.346s
+
+Process: 66
+Arrival Time: 206.869s
+Finish Time: 2023.935s
+Service Time: 44.769s
+I/O Time: 221.341
+Turnaround time: 1817.066s
+Waiting time: 1742.046s
+
+Process: 31
+Arrival Time: 120.507s
+Finish Time: 2051.346s
+Service Time: 48.546s
+I/O Time: 90.330
+Turnaround time: 1930.839s
+Waiting time: 1901.119s
+
+Process: 9
+Arrival Time: 32.605s
+Finish Time: 2081.121s
+Service Time: 50.489s
+I/O Time: 46.181
+Turnaround time: 2048.516s
+Waiting time: 1973.416s
+
+Process: 16
+Arrival Time: 56.147s
+Finish Time: 2091.924s
+Service Time: 47.459s
+I/O Time: 158.644
+Turnaround time: 2035.776s
+Waiting time: 1900.691s
+
+Process: 33
+Arrival Time: 128.997s
+Finish Time: 2150.936s
+Service Time: 46.129s
+I/O Time: 217.995
+Turnaround time: 2021.939s
+Waiting time: 1887.888s
+
+Process: 93
+Arrival Time: 282.497s
+Finish Time: 2235.471s
+Service Time: 49.138s
+I/O Time: 166.462
+Turnaround time: 1952.974s
+Waiting time: 2023.310s
+
+Process: 29
+Arrival Time: 114.377s
+Finish Time: 2361.500s
+Service Time: 50.922s
+I/O Time: 187.771
+Turnaround time: 2247.123s
+Waiting time: 2117.193s
+
+Process: 11
+Arrival Time: 42.054s
+Finish Time: 2381.405s
+Service Time: 53.674s
+I/O Time: 152.781
+Turnaround time: 2339.351s
+Waiting time: 2172.375s
+
+Process: 26
+Arrival Time: 91.251s
+Finish Time: 2398.505s
+Service Time: 52.923s
+I/O Time: 195.791
+Turnaround time: 2307.254s
+Waiting time: 2159.335s
+
+Process: 12
+Arrival Time: 44.731s
+Finish Time: 2460.024s
+Service Time: 53.792s
+I/O Time: 174.484
+Turnaround time: 2415.293s
+Waiting time: 2230.933s
+
+Process: 90
+Arrival Time: 275.539s
+Finish Time: 2555.096s
+Service Time: 55.612s
+I/O Time: 186.279
+Turnaround time: 2279.557s
+Waiting time: 2314.169s
+
+Process: 80
+Arrival Time: 236.069s
+Finish Time: 2616.553s
+Service Time: 55.357s
+I/O Time: 252.743
+Turnaround time: 2380.484s
+Waiting time: 2309.909s
+
+Process: 96
+Arrival Time: 288.259s
+Finish Time: 2676.337s
+Service Time: 56.433s
+I/O Time: 192.265
+Turnaround time: 2388.078s
+Waiting time: 2415.215s
+
+Process: 19
+Arrival Time: 61.145s
+Finish Time: 2698.679s
+Service Time: 55.954s
+I/O Time: 240.286
+Turnaround time: 2637.534s
+Waiting time: 2404.242s
+
+Process: 97
+Arrival Time: 288.769s
+Finish Time: 2760.712s
+Service Time: 57.123s
+I/O Time: 188.583
+Turnaround time: 2471.943s
+Waiting time: 2514.818s
+
+Process: 49
+Arrival Time: 170.545s
+Finish Time: 2816.892s
+Service Time: 56.471s
+I/O Time: 259.382
+Turnaround time: 2646.347s
+Waiting time: 2501.563s
+
+Process: 60
+Arrival Time: 191.692s
+Finish Time: 2887.016s
+Service Time: 57.299s
+I/O Time: 225.659
+Turnaround time: 2695.324s
+Waiting time: 2593.588s
+
+Process: 37
+Arrival Time: 132.936s
+Finish Time: 2952.756s
+Service Time: 57.631s
+I/O Time: 151.356
+Turnaround time: 2819.820s
+Waiting time: 2700.489s
+
+Process: 4
+Arrival Time: 22.828s
+Finish Time: 2967.418s
+Service Time: 57.564s
+I/O Time: 263.412
+Turnaround time: 2944.590s
+Waiting time: 2665.599s
+
+Process: 77
+Arrival Time: 226.861s
+Finish Time: 3037.492s
+Service Time: 57.573s
+I/O Time: 266.628
+Turnaround time: 2810.631s
+Waiting time: 2748.143s
+
+Process: 62
+Arrival Time: 196.445s
+Finish Time: 3097.801s
+Service Time: 59.924s
+I/O Time: 30.313
+Turnaround time: 2901.356s
+Waiting time: 2933.724s
+
+Process: 21
+Arrival Time: 72.513s
+Finish Time: 3177.602s
+Service Time: 58.089s
+I/O Time: 270.792
+Turnaround time: 3105.089s
+Waiting time: 2848.094s
+
+Process: 10
+Arrival Time: 37.832s
+Finish Time: 3217.114s
+Service Time: 59.114s
+I/O Time: 286.722
+Turnaround time: 3179.282s
+Waiting time: 2905.985s
+
+Process: 3
+Arrival Time: 20.896s
+Finish Time: 3230.124s
+Service Time: 59.169s
+I/O Time: 256.563
+Turnaround time: 3209.228s
+Waiting time: 2936.476s
+
+Process: 63
+Arrival Time: 196.767s
+Finish Time: 3253.360s
+Service Time: 59.533s
+I/O Time: 235.665
+Turnaround time: 3056.593s
+Waiting time: 2994.720s
+
+All processes finished...
+CPU Utilization: 96.822%
+Throughput: 0.031 jobs / s
+Average turnaround: 1069.213
+Average Waiting Time: 1091.696
+
+Enter 1 for First-Come First-Serve
+Enter 2 for Shortest job first
+Enter 0 to quit
+Enter: 0
+
+
+]0;hered013@cs433:~/assignment3[hered013@cs433 assignment3]$ exit
+exit
+
+Script done on Mon 23 Mar 2015 10:56:36 PM PDT

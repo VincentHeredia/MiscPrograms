@@ -1,0 +1,87 @@
+Script started on Wed 03 Sep 2014 10:53:54 PM PDT
+]0;hered013@empress:~[hered013@empress ~]$ g++ interpreter.cpp main.cpp
+]0;hered013@empress:~[hered013@empress ~]$ ./a.out
+ACC: 0 PC: 0
+Last Instruction: 0 Memory: 0:1 1:2 2:3 3:4 4:5 5:0 
+Next Instruction: 1 Value: 0
+
+
+
+ACC: 1 PC: 1
+Last Instruction: 1 Memory: 0:1 1:2 2:3 3:4 4:5 5:0 
+Next Instruction: 2 Value: 1
+
+
+
+ACC: 1 PC: 2
+Last Instruction: 2 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 3 Value: 4
+
+
+
+ACC: 6 PC: 3
+Last Instruction: 3 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 4 Value: 1
+
+
+
+ACC: 5 PC: 4
+Last Instruction: 4 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 5 Value: 2
+
+
+
+ACC: 15 PC: 5
+Last Instruction: 5 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 6 Value: 4
+
+
+
+ACC: 3 PC: 6
+Last Instruction: 6 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 7 Value: 8
+
+
+
+ACC: 3 PC: 8
+Last Instruction: 7 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 1 Value: 0
+
+
+
+ACC: 1 PC: 9
+Last Instruction: 1 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 4 Value: 4
+
+
+
+ACC: -4 PC: 10
+Last Instruction: 4 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 8 Value: 12
+
+
+
+ACC: -4 PC: 12
+Last Instruction: 8 Memory: 0:1 1:1 2:3 3:4 4:5 5:0 
+Next Instruction: 2 Value: 4
+
+
+
+ACC: -4 PC: 13
+Last Instruction: 2 Memory: 0:1 1:1 2:3 3:4 4:-4 5:0 
+Next Instruction: 6 Value: 5
+
+Cannot divide by zero
+
+
+ACC: -4 PC: 14
+Last Instruction: 6 Memory: 0:1 1:1 2:3 3:4 4:-4 5:0 
+Next Instruction: 9 Value: 0
+
+Program ending
+
+
+]0;hered013@empress:~[hered013@empress ~]$ exit
+exit
+
+Script done on Wed 03 Sep 2014 10:54:16 PM PDT
